@@ -1,1 +1,47 @@
-{"apps":[{"beta":false,"bundleIdentifier":"com.spotify.clientmod","developerName":"Julioverne","downloadURL":"https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.1/SpotilifeC.v1.2.1_v8.7.46.ipa","iconURL":"https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20AppIcon.png","localizedDescription":"Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.\n\nMore Information: github.com/SpotCompiled/SpotilifeC","name":"SpotilifeC","screenshotURLs":["https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Playing%20SS.png","https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20PlayList%20SS.png","https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Library%20View%20SS.png"],"size":52661000,"subtitle":"Spotify No ads Tweak","tintColor":"1ed760","version":"1.2.1","versionDate":"2022-12-21T14:00:00-07:00","versionDescription":"First Version that actually works! 🥳\n\nMore Info:\nhttps://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.1"}],"identifier":"com.yodaluca23.SpotC","name":"SpotC","news":[],"userInfo":{}}
+{
+  "name": "SpotC",
+  "identifier": "com.yodaluca23.SpotC",
+  "sourceURL": "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/AltStore%20Repo.json",
+  "apps": [
+    {
+      "name": "SpotilifeC",
+      "bundleIdentifier": "com.yodaluca23.SpotilifeC",
+      "developerName": "Julioverne",
+      "subtitle": "Spotify No ads Tweak",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "date": "2022-12-21",
+          "localizedDescription": "First Version that actually works! 🥳\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.1",
+          "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.1.1/SpotilifeC.v1.1.1_v8.7.78.ipa",
+          "size": 6687500,
+          "minOSVersion": "13.0"
+        },
+        {
+          "version": "1.1.1",
+          "date": "2022-10-27",
+          "localizedDescription": "First AltStore release!",
+          "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.1.1/SpotilifeC.v1.1.1_v8.7.78.ipa",
+          "size": 6687500,
+          "minOSVersion": "13.0",
+        }
+      ],
+      "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.1.1/SpotilifeC.v1.1.1_v8.7.78.ipa",
+      "localizedDescription": "First Version that actually works! 🥳\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.1",
+      "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20AppIcon.png",
+      "tintColor": "1ed760",
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows you to scan Spotify codes."
+        }
+      ],
+      "screenshotURLs": [
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Playing%20SS.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20PlayList%20SS.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Library%20View%20SS.png"
+      ],
+      "beta": false
+    }
+  ]
+}
