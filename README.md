@@ -7,4 +7,4 @@ You can add my repo to AltStore *Beta* or SideStore for automatic updates and co
 2. Tap the ”+” button and add my source by entering its URL "https://tiny.one/SpotC"
 3. Now any "SpotC" Apps will show up in AltStore/SideStore under the "Browse" tab where you can install and update my apps easily from within AltStore/SideStore.<br/>
 
-<sup>We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.<sup>
+<sup><sub>We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.</sub></sup>
