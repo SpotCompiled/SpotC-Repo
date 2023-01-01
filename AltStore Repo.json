@@ -68,7 +68,7 @@
                 {
           "version": "1.1.1",
           "date": "2022-1-1",
-          "localizedDescription": "First AltStore release!\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.1",
+          "localizedDescription": "First AltStore release!\n Crashes when opening Settings, not recommended to use.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.1",
           "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.1.1/SpotC++.v1.1.1_v8.6.42.ipa",
           "size": 48068000,
           "minOSVersion": "13.0"
