@@ -7,12 +7,20 @@
       "name": "SpotilifeC",
       "bundleIdentifier": "com.yodaluca23.SpotilifeC",
       "developerName": "Julioverne",
-      "version": "1.2.1",
-      "versionDate": "2022-12-21",
-      "size": 52661000,
+      "version": "1.2.2",
+      "versionDate": "2023-1-1",
+      "size": 49107000,
       "minOSVersion": "13.0",
       "subtitle": "Spotify No ads Tweak",
       "versions": [
+                {
+          "version": "1.2.2",
+          "date": "2023-1-1",
+          "localizedDescription": "First Version that actually works! 🥳 (Can Verifiy)\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.2",
+          "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.2/SpotilifeC.v1.2.2_v8.6.42.ipa",
+          "size": 49107000,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "1.2.1",
           "date": "2022-12-21",
@@ -30,8 +38,8 @@
           "minOSVersion": "13.0",
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.1.1/SpotilifeC.v1.1.1_v8.7.78.ipa",
-      "localizedDescription": "First Version that actually works! 🥳\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.1",
+      "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.2/SpotilifeC.v1.2.2_v8.6.42.ipa",
+      "localizedDescription": "First Version that actually works! 🥳 (Can Verifiy)\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.2",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
       "permissions": [
