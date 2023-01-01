@@ -46,12 +46,47 @@
         {
           "type": "photos",
           "usageDescription": "Allows you to scan Spotify codes."
-        }
+        },
       ],
       "screenshotURLs": [
         "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Playing%20SS.png",
         "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20PlayList%20SS.png",
         "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Library%20View%20SS.png"
+      ],
+      "beta": false
+    {
+      "name": "SpotC++",
+      "bundleIdentifier": "com.yodaluca23.SpotCPlusPlus",
+      "developerName": "Julioverne & Aesthyrica",
+      "version": "1.1.1",
+      "versionDate": "2023-1-1",
+      "size": 48068000,
+      "minOSVersion": "13.0",
+      "subtitle": "Spotify No ads Tweak",
+      "versions": [
+                {
+          "version": "1.1.1",
+          "date": "2022-1-1",
+          "localizedDescription": "First AltStore release!\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.1",
+          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.1.1/SpotC++.v1.1.1_v8.6.42.ipa",
+          "size": 48068000,
+          "minOSVersion": "13.0",
+        }
+      ],
+      "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.1.1/SpotC++.v1.1.1_v8.6.42.ipa",
+      "localizedDescription": "First AltStore release!\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.1",
+      "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC%2B%2B%20AppIcon.png",
+      "tintColor": "1ed760",
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows you to scan Spotify codes."
+        }
+      ],
+      "screenshotURLs": [
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Sposify%20Settings%201.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Sposify%20Settings%202.png",
+        "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Sposify%20Car%20Mode.png"
       ],
       "beta": false
     }
