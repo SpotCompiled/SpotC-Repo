@@ -35,7 +35,7 @@
           "localizedDescription": "First AltStore release!",
           "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.1.1/SpotilifeC.v1.1.1_v8.7.78.ipa",
           "size": 6687500,
-          "minOSVersion": "13.0",
+          "minOSVersion": "13.0"
         }
       ],
       "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.2/SpotilifeC.v1.2.2_v8.6.42.ipa",
@@ -46,7 +46,7 @@
         {
           "type": "photos",
           "usageDescription": "Allows you to scan Spotify codes."
-        },
+        }
       ],
       "screenshotURLs": [
         "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Playing%20SS.png",
@@ -54,6 +54,7 @@
         "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Library%20View%20SS.png"
       ],
       "beta": false
+    },
     {
       "name": "SpotC++",
       "bundleIdentifier": "com.yodaluca23.SpotCPlusPlus",
@@ -70,7 +71,7 @@
           "localizedDescription": "First AltStore release!\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.1",
           "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.1.1/SpotC++.v1.1.1_v8.6.42.ipa",
           "size": 48068000,
-          "minOSVersion": "13.0",
+          "minOSVersion": "13.0"
         }
       ],
       "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.1.1/SpotC++.v1.1.1_v8.6.42.ipa",
