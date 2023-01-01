@@ -5,7 +5,7 @@
   "apps": [
     {
       "name": "SpotilifeC",
-      "bundleIdentifier": "com.yodaluca23.SpotilifeC",
+      "bundleIdentifier": "com.spotify.clientmod",
       "developerName": "Julioverne",
       "version": "1.2.2",
       "versionDate": "2023-1-1",
