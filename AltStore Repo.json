@@ -75,7 +75,7 @@
         }
       ],
       "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.1.1/SpotC++.v1.1.1_v8.6.42.ipa",
-      "localizedDescription": "First AltStore release!\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.1",
+      "localizedDescription": "First AltStore release!\n Crashes when opening Settings, not recommended to use.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.1",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC%2B%2B%20AppIcon.png",
       "tintColor": "1ed760",
       "permissions": [
