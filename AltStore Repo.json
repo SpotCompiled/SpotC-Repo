@@ -44,8 +44,36 @@
       "tintColor": "1ed760",
       "permissions": [
         {
+          "type": "camera",
+          "usageDescription": "This lets you scan Spotify Codes."
+        },
+        {
           "type": "photos",
-          "usageDescription": "Allows you to scan Spotify codes."
+          "usageDescription": "This lets you save and select images to and from your Photo Library."
+        },
+        {
+          "type": "music",
+          "usageDescription": "This will let you play your imported music on Spotify."
+        },
+        {
+          "type": "motion",
+          "usageDescription": "Used to control your tempo for Spotify Running."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "This lets you control Spotify using your voice."
+        },
+        {
+          "type": "bluetooth",
+          "usageDescription": "This lets you use Spotify with external accessories."
+        },
+        {
+          "type": "network",
+          "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "This lets you set access restrictions using Face ID."
         }
       ],
       "screenshotURLs": [
@@ -80,8 +108,36 @@
       "tintColor": "1ed760",
       "permissions": [
         {
+          "type": "camera",
+          "usageDescription": "This lets you scan Spotify Codes."
+        },
+        {
           "type": "photos",
-          "usageDescription": "Allows you to scan Spotify codes."
+          "usageDescription": "This lets you save and select images to and from your Photo Library."
+        },
+        {
+          "type": "music",
+          "usageDescription": "This will let you play your imported music on Spotify."
+        },
+        {
+          "type": "motion",
+          "usageDescription": "Used to control your tempo for Spotify Running."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "This lets you control Spotify using your voice."
+        },
+        {
+          "type": "bluetooth",
+          "usageDescription": "This lets you use Spotify with external accessories."
+        },
+        {
+          "type": "network",
+          "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "This lets you set access restrictions using Face ID."
         }
       ],
       "screenshotURLs": [
