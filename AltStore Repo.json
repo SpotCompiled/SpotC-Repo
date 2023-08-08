@@ -16,6 +16,7 @@
       "versionDate": "2023-1-9",
       "size": 48093000,
       "minOSVersion": "13.0",
+      "changelog": "- Added Sposify Fix 0.0.6, which should fix it from crashing when opening settings.\n - Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.3",
       "versionDescription": "- Added Sposify Fix 0.0.6, which should fix it from crashing when opening settings.\n - Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.3",
       "information": [
                 {
@@ -198,6 +199,7 @@
       "versionDate": "2023-1-9",
       "size": 47954000,
       "minOSVersion": "13.0",
+      "changelog": - "Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.3",
       "versionDescription": "- Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.3",
       "information": [
                 {
