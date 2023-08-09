@@ -199,7 +199,7 @@
       "versionDate": "2023-1-9",
       "size": 47954000,
       "minOSVersion": "13.0",
-      "changelog": - "Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.3",
+      "changelog": "-Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.3",
       "versionDescription": "- Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.3",
       "information": [
                 {
