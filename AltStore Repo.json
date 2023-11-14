@@ -77,106 +77,28 @@
       "tintColor": "1ed760",
       "appPermissions": {
         "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.associated-domains"
-          },
-          {
-            "name": "com.apple.developer.carplay-audio"
-          },
-          {
-            "name": "com.apple.developer.playable-content"
-          },
-          {
-            "name": "keychain-access-groups"
-          },
-          {
-            "name": "com.apple.developer.networking.multicast"
-          },
-          {
-            "name": "aps-environment"
-          },
-          {
-            "name": "com.apple.developer.applesignin"
-          },
-          {
-            "name": "com.apple.developer.siri"
-          },
-          {
-            "name": "com.apple.developer.networking.wifi-info"
-          }
+          "com.apple.security.application-groups",
+          "com.apple.developer.siri",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.carplay-audio",
+          "com.apple.developer.playable-content",
+          "keychain-access-groups",
+          "com.apple.developer.networking.multicast",
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.networking.wifi-info"
         ],
-        "privacy": [
-          {
-            "name": "camera",
-            "usageDescription": "This lets you scan Spotify Codes."
-          },
-          {
-            "name": "photos",
-            "usageDescription": "This lets you save and select images to and from your Photo Library."
-          },
-          {
-            "name": "music",
-            "usageDescription": "This will let you play your imported music on Spotify."
-          },
-          {
-            "name": "motion",
-            "usageDescription": "Used to control your tempo for Spotify Running."
-          },
-          {
-            "name": "microphone",
-            "usageDescription": "This lets you control Spotify using your voice."
-          },
-          {
-            "name": "bluetooth",
-            "usageDescription": "This lets you use Spotify with external accessories."
-          },
-          {
-            "name": "network",
-            "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
-          },
-          {
-            "name": "faceid",
-            "usageDescription": "This lets you set access restrictions using Face ID."
-          }
-        ]
-      },
-      "permissions": [
-        {
-          "type": "camera",
-          "usageDescription": "This lets you scan Spotify Codes."
-        },
-        {
-          "type": "photos",
-          "usageDescription": "This lets you save and select images to and from your Photo Library."
-        },
-        {
-          "type": "music",
-          "usageDescription": "This will let you play your imported music on Spotify."
-        },
-        {
-          "type": "motion",
-          "usageDescription": "Used to control your tempo for Spotify Running."
-        },
-        {
-          "type": "microphone",
-          "usageDescription": "This lets you control Spotify using your voice."
-        },
-        {
-          "type": "bluetooth",
-          "usageDescription": "This lets you use Spotify with external accessories."
-        },
-        {
-          "type": "network",
-          "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
-        },
-        {
-          "type": "faceid",
-          "usageDescription": "This lets you set access restrictions using Face ID."
+        "privacy": {
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSPhotosUsageDescription": "This lets you save and select images to and from your Photo Library.",
+          "NSMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSBluetoothUsageDescription": "This lets you use Spotify with external accessories.",
+          "NSNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSFaceidUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSMotionUsageDescription": "Used to control your tempo for Spotify Running."
         }
-      ],
+      },
       "screenshotURLs": [
         "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Sposify%20Settings%201.png",
         "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Sposify%20Settings%202.png",
@@ -256,106 +178,28 @@
       "tintColor": "1ed760",
       "appPermissions": {
         "entitlements": [
-          {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.associated-domains"
-          },
-          {
-            "name": "com.apple.developer.carplay-audio"
-          },
-          {
-            "name": "com.apple.developer.playable-content"
-          },
-          {
-            "name": "keychain-access-groups"
-          },
-          {
-            "name": "com.apple.developer.networking.multicast"
-          },
-          {
-            "name": "aps-environment"
-          },
-          {
-            "name": "com.apple.developer.applesignin"
-          },
-          {
-            "name": "com.apple.developer.siri"
-          },
-          {
-            "name": "com.apple.developer.networking.wifi-info"
-          }
+          "com.apple.security.application-groups",
+          "com.apple.developer.siri",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.carplay-audio",
+          "com.apple.developer.playable-content",
+          "keychain-access-groups",
+          "com.apple.developer.networking.multicast",
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.networking.wifi-info"
         ],
-        "privacy": [
-          {
-            "name": "camera",
-            "usageDescription": "This lets you scan Spotify Codes."
-          },
-          {
-            "name": "photos",
-            "usageDescription": "This lets you save and select images to and from your Photo Library."
-          },
-          {
-            "name": "music",
-            "usageDescription": "This will let you play your imported music on Spotify."
-          },
-          {
-            "name": "motion",
-            "usageDescription": "Used to control your tempo for Spotify Running."
-          },
-          {
-            "name": "microphone",
-            "usageDescription": "This lets you control Spotify using your voice."
-          },
-          {
-            "name": "bluetooth",
-            "usageDescription": "This lets you use Spotify with external accessories."
-          },
-          {
-            "name": "network",
-            "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
-          },
-          {
-            "name": "faceid",
-            "usageDescription": "This lets you set access restrictions using Face ID."
-          }
-        ]
-      },
-      "permissions": [
-        {
-          "type": "camera",
-          "usageDescription": "This lets you scan Spotify Codes."
-        },
-        {
-          "type": "photos",
-          "usageDescription": "This lets you save and select images to and from your Photo Library."
-        },
-        {
-          "type": "music",
-          "usageDescription": "This will let you play your imported music on Spotify."
-        },
-        {
-          "type": "motion",
-          "usageDescription": "Used to control your tempo for Spotify Running."
-        },
-        {
-          "type": "microphone",
-          "usageDescription": "This lets you control Spotify using your voice."
-        },
-        {
-          "type": "bluetooth",
-          "usageDescription": "This lets you use Spotify with external accessories."
-        },
-        {
-          "type": "network",
-          "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
-        },
-        {
-          "type": "faceid",
-          "usageDescription": "This lets you set access restrictions using Face ID."
+        "privacy": {
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSPhotosUsageDescription": "This lets you save and select images to and from your Photo Library.",
+          "NSMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSBluetoothUsageDescription": "This lets you use Spotify with external accessories.",
+          "NSNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSFaceidUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSMotionUsageDescription": "Used to control your tempo for Spotify Running."
         }
-      ],
+      },
       "screenshotURLs": [
         "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20Playing%20SS.png",
         "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/Spotilife%20PlayList%20SS.png",
