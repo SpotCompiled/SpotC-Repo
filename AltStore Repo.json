@@ -3,6 +3,7 @@
   "identifier": "com.yodaluca23.SpotC",
   "sourceURL": "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/AltStore%20Repo.json",
   "website": "https://github.com/SpotCompiled",
+  "iconURL": "https://raw.githubusercontent.com/SpotCompiled/.github/main/SpotC%20Icon.png",
   "META": { "repoName": "SpotC", "repoIcon": "https://raw.githubusercontent.com/SpotCompiled/.github/main/SpotC%20Icon.png" },
   "apps": [
     {
