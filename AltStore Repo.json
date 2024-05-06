@@ -124,7 +124,7 @@
       "versionDate": "2024-5-5",
       "size": 76795359,
       "minOSVersion": "15.0",
-      "changelog": "Updated Spotify Version to v8.9.36\n Updated EeveeSpotify to Swift 2.0.0\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.0",
+      "changelog": "Updated Spotify Version to v8.9.36\n Updated EeveeSpotify to Swift 2.0.0\n Added SwiftProtobuf Framework, a new dependency for EeveeSpotify.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.0",
       "versionDescription": "Updated Spotify Version to v8.9.36\n Updated EeveeSpotify to Swift 2.0.0\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.0",
       "information": [
                 {
@@ -173,7 +173,7 @@
         {
           "version": "2.0.0",
           "date": "2024-5-5",
-          "localizedDescription": "Updated Spotify Version to v8.9.36\n Updated EeveeSpotify to Swift 2.0.0\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.0",
+          "localizedDescription": "Updated Spotify Version to v8.9.36\n Updated EeveeSpotify to Swift 2.0.0\n Added SwiftProtobuf Framework, a new dependency for EeveeSpotify.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.0",
           "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.0.0/SpotveeC.v2.0.0_v8.9.36.ipa",
           "size": 76795359,
           "minOSVersion": "15.0"
