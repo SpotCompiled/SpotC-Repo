@@ -122,7 +122,7 @@
       },
       "version": "2.0.1",
       "versionDate": "2024-5-8",
-      "size": "77057952",
+      "size": 77057952,
       "minOSVersion": "15.0",
       "changelog": "Updated Spotify Version to v8.9.38\n Updated EeveeSpotify to Swift 2.1, should fix lyrics crash.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.1",
       "versionDescription": "Updated Spotify Version to v8.9.38\n Updated EeveeSpotify to Swift 2.1, should fix lyrics crash.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.1",
@@ -183,7 +183,7 @@
           "date": "2024-5-8",
           "localizedDescription": "Updated Spotify Version to v8.9.38\n Updated EeveeSpotify to Swift 2.1, should fix lyrics crash.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.1",
           "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.0.1/SpotveeC.v2.0.1_v8.9.38.ipa",
-          "size": "77057952",
+          "size": 77057952,
           "minOSVersion": "15.0"
         }
       ],
