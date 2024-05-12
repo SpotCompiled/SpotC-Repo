@@ -154,28 +154,12 @@
             ],
       "subtitle": "Spotify Free Premium Tweak",
       "versions": [
-                {
-          "version": "1.0.0",
-          "date": "2024-4-27",
-          "localizedDescription": "First Release!\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v1.0.0/SpotveeC.v1.0.0_v8.9.32.ipa",
-          "size": 72963040,
-          "minOSVersion": "15.0"
-        },
         {
-          "version": "1.0.1",
-          "date": "2024-4-30",
-          "localizedDescription": "Updated Spotify Version to v8.9.34\n Updated EeveeSpotify to Swift 1.4.1\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v1.0.1/SpotveeC.v1.0.1_v8.9.34.ipa",
-          "size": 73677828,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "2.0.0",
-          "date": "2024-5-5",
-          "localizedDescription": "Updated Spotify Version to v8.9.36\n Updated EeveeSpotify to Swift 2.0.0\n Added SwiftProtobuf Framework, a new dependency for EeveeSpotify.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.0.0/SpotveeC.v2.0.0_v8.9.36.ipa",
-          "size": 76795359,
+          "version": "2.1.0",
+          "date": "2024-5-8",
+          "localizedDescription": "Updated EeveeSpotify to Swift 2.1, added more lyric providers.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
+          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.1.0/SpotveeC.v2.1.0_v8.9.38.ipa",
+          "size": 77131497,
           "minOSVersion": "15.0"
         },
         {
@@ -187,11 +171,27 @@
           "minOSVersion": "15.0"
         },
         {
-          "version": "2.1.0",
-          "date": "2024-5-8",
-          "localizedDescription": "Updated EeveeSpotify to Swift 2.1, added more lyric providers.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.1.0/SpotveeC.v2.1.0_v8.9.38.ipa",
-          "size": 77131497,
+          "version": "2.0.0",
+          "date": "2024-5-5",
+          "localizedDescription": "Updated Spotify Version to v8.9.36\n Updated EeveeSpotify to Swift 2.0.0\n Added SwiftProtobuf Framework, a new dependency for EeveeSpotify.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.0",
+          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.0.0/SpotveeC.v2.0.0_v8.9.36.ipa",
+          "size": 76795359,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.1",
+          "date": "2024-4-30",
+          "localizedDescription": "Updated Spotify Version to v8.9.34\n Updated EeveeSpotify to Swift 1.4.1\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.3",
+          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v1.0.1/SpotveeC.v1.0.1_v8.9.34.ipa",
+          "size": 73677828,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.0",
+          "date": "2024-4-27",
+          "localizedDescription": "First Release!\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.3",
+          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v1.0.0/SpotveeC.v1.0.0_v8.9.32.ipa",
+          "size": 72963040,
           "minOSVersion": "15.0"
         }
       ],
