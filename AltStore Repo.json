@@ -187,7 +187,7 @@
           "minOSVersion": "15.0"
         },
         {
-          "version": "2.0.1",
+          "version": "2.1.0",
           "date": "2024-5-8",
           "localizedDescription": "Updated EeveeSpotify to Swift 2.1, added more lyric providers.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
           "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.1.0/SpotveeC.v2.1.0_v8.9.38.ipa",
