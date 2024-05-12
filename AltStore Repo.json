@@ -1,5 +1,5 @@
 {
-  "name": "SpotCompiled",
+"name": "SpotCompiled",
   "subtitle": "Compiled Tweaked Spotify IPA's",
   "identifier": "com.yodaluca23.SpotC",
   "sourceURL": "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/AltStore%20Repo.json",
@@ -157,7 +157,7 @@
         {
           "version": "2.1.0",
           "date": "2024-5-8",
-          "localizedDescription": "Updated EeveeSpotify to Swift 2.1, added more lyric providers.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
+          "localizedDescription": "Updated EeveeSpotify to Swift 3.0, added more lyric providers.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
           "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.1.0/SpotveeC.v2.1.0_v8.9.38.ipa",
           "size": 77131497,
           "minOSVersion": "15.0"
@@ -173,7 +173,7 @@
         {
           "version": "2.0.0",
           "date": "2024-5-5",
-          "localizedDescription": "Updated Spotify Version to v8.9.36\n Updated EeveeSpotify to Swift 2.0.0\n Added SwiftProtobuf Framework, a new dependency for EeveeSpotify.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.0",
+          "localizedDescription": "Updated Spotify Version to v8.9.36\n Updated EeveeSpotify to Swift 2.0\n Added SwiftProtobuf Framework, a new dependency for EeveeSpotify.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.0",
           "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.0.0/SpotveeC.v2.0.0_v8.9.36.ipa",
           "size": 76795359,
           "minOSVersion": "15.0"
