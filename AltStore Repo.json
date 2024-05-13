@@ -124,8 +124,8 @@
       "versionDate": "2024-5-11",
       "size": 77131497,
       "minOSVersion": "15.0",
-      "changelog": "Updated EeveeSpotify to Swift 2.1, added more lyric providers.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
-      "versionDescription": "Updated EeveeSpotify to Swift 2.1, added more lyric providers.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
+      "changelog": "Updated EeveeSpotify to Swift 3.0, added more lyric providers.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
+      "versionDescription": "Updated EeveeSpotify to Swift 3.0, added more lyric providers.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
       "information": [
                 {
                     "item": "Spotify",
