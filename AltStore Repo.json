@@ -17,7 +17,7 @@
       },
       "version": "2.0.2",
       "versionDate": "2024-5-22",
-      "size": 75264132,
+      "size": 75264232,
       "minOSVersion": "15.0",
       "changelog": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable it in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
       "versionDescription": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable it in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
@@ -72,7 +72,7 @@
           "date": "2024-5-28",
           "localizedDescription": "Added Whoeevee's OpenSpotifySafariExtension.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.2",
           "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.1.0/SpotC++.v2.1.0_v8.9.42.ipa",
-          "size": 75264132,
+          "size": 75264232,
           "minOSVersion": "15.0"
         },
         {
@@ -176,7 +176,7 @@
       },
       "version": "3.0.0",
       "versionDate": "2024-5-28",
-      "size": 74878545,
+      "size": 74878600,
       "minOSVersion": "15.0",
       "changelog": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable it in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.0",
       "versionDescription": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.0",
@@ -213,7 +213,7 @@
           "date": "2024-5-28",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable it in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.0",
           "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.0/SpotveeC.v3.0.0_v8.9.42.ipa",
-          "size": 74878545,
+          "size": 74878600,
           "minOSVersion": "15.0"
         },
         {
