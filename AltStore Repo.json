@@ -16,7 +16,7 @@
           "web": "https://github.com/SpotCompiled"
       },
       "version": "2.1.0",
-      "versionDate": "2024-5-22",
+      "versionDate": "2024-5-28",
       "size": 75264232,
       "minOSVersion": "15.0",
       "changelog": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable it in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
