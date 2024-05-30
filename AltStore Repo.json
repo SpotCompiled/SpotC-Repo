@@ -15,7 +15,7 @@
       "contact": {
           "web": "https://github.com/SpotCompiled"
       },
-      "version": "2.0.2",
+      "version": "2.1.0",
       "versionDate": "2024-5-22",
       "size": 75264232,
       "minOSVersion": "15.0",
@@ -70,7 +70,7 @@
         {
           "version": "2.1.0",
           "date": "2024-5-28",
-          "localizedDescription": "Added Whoeevee's OpenSpotifySafariExtension.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.2",
+          "localizedDescription": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable it in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
           "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.1.0/SpotC++.v2.1.0_v8.9.42.ipa",
           "size": 75264232,
           "minOSVersion": "15.0"
