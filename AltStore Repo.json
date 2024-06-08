@@ -15,22 +15,22 @@
       "contact": {
           "web": "https://github.com/SpotCompiled"
       },
-      "version": "2.1.0",
-      "versionDate": "2024-5-28",
-      "size": 75264232,
+      "version": "2.1.1",
+      "versionDate": "2024-6-7",
+      "size": 75312670,
       "minOSVersion": "15.0",
-      "changelog": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable it in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
-      "versionDescription": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable it in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
+      "changelog": "Updated EeveeSpotify to Swift 4.1, fixed several bugs. Overwrite Configuration option. Dynamic Premium patching method by default.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.1",
+      "versionDescription": "Updated EeveeSpotify to Swift 4.1, fixed several bugs. Overwrite Configuration option. Dynamic Premium patching method by default.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.1",
       "information": [
                 {
                     "item": "Spotify",
-                    "version": "v8.9.42",
+                    "version": "v8.9.44",
                     "authors": "Spotify AB",
                     "url": "https://www.spotify.com"
                 },
                 {
                     "item": "EeveeSpotify",
-                    "version": "Swift 4.0",
+                    "version": "Swift 4.1",
                     "authors": "Whoeevee & Asdfzxcvbn",
                     "url": "https://github.com/whoeevee/EeveeSpotify"
                 },
@@ -67,6 +67,14 @@
             ],
       "subtitle": "Spotify Ad-Free, and Other QOL Enhancements.",
       "versions": [
+        {
+          "version": "2.1.1",
+          "date": "2024-6-7",
+          "localizedDescription": "Updated EeveeSpotify to Swift 4.1, fixed several bugs. Overwrite Configuration option. Dynamic Premium patching method by default.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.1",
+          "downloadURL": "https://www.virustotal.com/gui/file/25088e864686b3aaedecad45a72e9f9a80a6c7df1610e6c3074cd5e1df55cd11",
+          "size": 75312670,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "2.1.0",
           "date": "2024-5-28",
@@ -124,7 +132,7 @@
           "minOSVersion": "13.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.1.0/SpotC++.v2.1.0_v8.9.42.ipa",
+      "downloadURL": "https://www.virustotal.com/gui/file/25088e864686b3aaedecad45a72e9f9a80a6c7df1610e6c3074cd5e1df55cd11",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n Sposify is a Spotify IOS app tweak that adds various enhancements to the Spotify IOS application.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC%2B%2B%20AppIcon.png",
       "tintColor": "1ed760",
