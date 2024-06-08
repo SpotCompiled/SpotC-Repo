@@ -174,22 +174,22 @@
       "contact": {
           "web": "https://github.com/SpotCompiled"
       },
-      "version": "3.0.0",
-      "versionDate": "2024-5-28",
-      "size": 74878600,
+      "version": "3.0.1",
+      "versionDate": "2024-6-7",
+      "size": 74927146,
       "minOSVersion": "15.0",
-      "changelog": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable it in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.0",
-      "versionDescription": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.0",
+      "changelog": "Updated EeveeSpotify to Swift 4.1, fixed several bugs. Overwrite Configuration option. Dynamic Premium patching method by default.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.1",
+      "versionDescription": "Updated EeveeSpotify to Swift 4.1, fixed several bugs. Overwrite Configuration option. Dynamic Premium patching method by default.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.1",
       "information": [
                 {
                     "item": "Spotify",
-                    "version": "v8.9.42",
+                    "version": "v8.9.44",
                     "authors": "Spotify AB",
                     "url": "https://www.spotify.com"
                 },
                 {
                     "item": "EeveeSpotify",
-                    "version": "Swift 4.0",
+                    "version": "Swift 4.1",
                     "authors": "whoeevee",
                     "url": "https://github.com/whoeevee/EeveeSpotify"
                 },
@@ -208,6 +208,14 @@
             ],
       "subtitle": "Spotify Free Premium Tweak",
       "versions": [
+        {
+          "version": "3.0.1",
+          "date": "2024-6-7",
+          "localizedDescription": "Updated EeveeSpotify to Swift 4.1, fixed several bugs. Overwrite Configuration option. Dynamic Premium patching method by default.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.1",
+          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.1/SpotveeC.v3.0.1_v8.9.44.ipa",
+          "size": 74927146,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "3.0.0",
           "date": "2024-5-28",
@@ -265,7 +273,7 @@
           "minOSVersion": "15.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.0/SpotveeC.v3.0.0_v8.9.42.ipa",
+      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.1/SpotveeC.v3.0.1_v8.9.44.ipa",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and enables almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
