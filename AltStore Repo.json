@@ -198,22 +198,22 @@
       "contact": {
           "web": "https://github.com/SpotCompiled"
       },
-      "version": "3.0.2",
-      "versionDate": "2024-6-17",
-      "size": 74650709,
+      "version": "3.0.3",
+      "versionDate": "2024-6-25",
+      "size": 72370900,
       "minOSVersion": "15.0",
-      "changelog": "Updated EeveeSpotify to Swift 4.2, fixed several bugs. Added Lyrics Colors option\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.2",
-      "versionDescription": "Updated EeveeSpotify to Swift 4.2, fixed several bugs. Added Lyrics Colors option\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.2",
+      "changelog": "Updated EeveeSpotify to Swift 4.3, fixed several bugs. Fixed Couldn't load the lyrics for this song message when they are restricted on Musixmatch\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.3",
+      "versionDescription": "Updated EeveeSpotify to Swift 4.3, fixed several bugs. Fixed Couldn't load the lyrics for this song message when they are restricted on Musixmatch\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.3",
       "information": [
                 {
                     "item": "Spotify",
-                    "version": "v8.9.48",
+                    "version": "v8.9.50",
                     "authors": "Spotify AB",
                     "url": "https://www.spotify.com"
                 },
                 {
                     "item": "EeveeSpotify",
-                    "version": "Swift 4.2",
+                    "version": "Swift 4.3",
                     "authors": "whoeevee",
                     "url": "https://github.com/whoeevee/EeveeSpotify"
                 },
@@ -232,6 +232,14 @@
             ],
       "subtitle": "Spotify Free Premium Tweak",
       "versions": [
+        {
+          "version": "3.0.3",
+          "date": "2024-6-25",
+          "localizedDescription": "Updated EeveeSpotify to Swift 4.3, fixed several bugs. Fixed Couldn't load the lyrics for this song message when they are restricted on Musixmatch\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.3",
+          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.3/SpotveeC.v3.0.3_v8.9.50.ipa",
+          "size": 72370900,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "3.0.2",
           "date": "2024-6-17",
@@ -305,7 +313,7 @@
           "minOSVersion": "15.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.2/SpotveeC.v3.0.2_v8.9.48.ipa",
+      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.3/SpotveeC.v3.0.3_v8.9.50.ipa",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and enables almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
