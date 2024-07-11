@@ -1,19 +1,22 @@
 {
-"name": "SpotCompiled",
+  "name": "SpotCompiled",
   "subtitle": "Compiled Tweaked Spotify IPA's",
   "identifier": "com.yodaluca23.SpotC",
   "sourceURL": "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/AltStore%20Repo.json",
   "website": "https://spotcompiled.github.io",
   "iconURL": "https://raw.githubusercontent.com/SpotCompiled/.github/main/SpotC%20Icon.png",
   "headerURL": "https://raw.githubusercontent.com/SpotCompiled/SpotC-AltStore-Repo/main/New%20Custom%20Header%203x2.png",
-  "META": { "repoName": "SpotCompiled", "repoIcon": "https://raw.githubusercontent.com/SpotCompiled/.github/main/SpotC%20Icon.png" },
+  "META": {
+    "repoName": "SpotCompiled",
+    "repoIcon": "https://raw.githubusercontent.com/SpotCompiled/.github/main/SpotC%20Icon.png"
+  },
   "apps": [
     {
       "name": "SpotC++",
       "bundleIdentifier": "com.yodaluca23.SpotCPlusPlus",
       "developerName": "Whoeevee & Aesthyrica",
       "contact": {
-          "web": "https://github.com/SpotCompiled"
+        "web": "https://github.com/SpotCompiled"
       },
       "version": "2.1.3",
       "versionDate": "2024-6-25",
@@ -22,49 +25,49 @@
       "changelog": "Updated EeveeSpotify to Swift 4.3, fixed several bugs. Fixed Couldn't load the lyrics for this song message when they are restricted on Musixmatch\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.3",
       "versionDescription": "Updated EeveeSpotify to Swift 4.3, fixed several bugs. Fixed Couldn't load the lyrics for this song message when they are restricted on Musixmatch\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.3",
       "information": [
-                {
-                    "item": "Spotify",
-                    "version": "v8.9.50",
-                    "authors": "Spotify AB",
-                    "url": "https://www.spotify.com"
-                },
-                {
-                    "item": "EeveeSpotify",
-                    "version": "Swift 4.3",
-                    "authors": "Whoeevee & Asdfzxcvbn",
-                    "url": "https://github.com/whoeevee/EeveeSpotify"
-                },
-                {
-                    "item": "Sposify",
-                    "version": "v8.5.52",
-                    "authors": "aesthyrica",
-                    "url": "https://repo.dynastic.co/package/com.spos"
-                },
-                {
-                    "item": "OpenSpotifySafariExtension",
-                    "version": "Commit edd4cbd",
-                    "authors": "Whoeevee",
-                    "url": "https://github.com/whoeevee/OpenSpotifySafariExtension"
-                },
-                {
-                    "item": "Sposify Fix",
-                    "version": "v0.0.6",
-                    "authors": "level3tjg",
-                    "url": "https://level3tjg.me/repo/depictions?p=com.level3tjg.sposifyfix"
-                },
-                {
-                    "item": "Orion Runtime",
-                    "version": "v1.0.1",
-                    "authors": "Theos Team",
-                    "url": "https://orion.theos.dev"
-                },
-                {
-                    "item": "SwiftProtobuf Framework",
-                    "version": "v1.26.0",
-                    "authors": "Apple Inc.",
-                    "url": "https://github.com/apple/swift-protobuf"
-                }
-            ],
+        {
+          "item": "Spotify",
+          "version": "v8.9.50",
+          "authors": "Spotify AB",
+          "url": "https://www.spotify.com"
+        },
+        {
+          "item": "EeveeSpotify",
+          "version": "Swift 4.3",
+          "authors": "Whoeevee & Asdfzxcvbn",
+          "url": "https://github.com/whoeevee/EeveeSpotify"
+        },
+        {
+          "item": "Sposify",
+          "version": "v8.5.52",
+          "authors": "aesthyrica",
+          "url": "https://repo.dynastic.co/package/com.spos"
+        },
+        {
+          "item": "OpenSpotifySafariExtension",
+          "version": "Commit edd4cbd",
+          "authors": "Whoeevee",
+          "url": "https://github.com/whoeevee/OpenSpotifySafariExtension"
+        },
+        {
+          "item": "Sposify Fix",
+          "version": "v0.0.6",
+          "authors": "level3tjg",
+          "url": "https://level3tjg.me/repo/depictions?p=com.level3tjg.sposifyfix"
+        },
+        {
+          "item": "Orion Runtime",
+          "version": "v1.0.1",
+          "authors": "Theos Team",
+          "url": "https://orion.theos.dev"
+        },
+        {
+          "item": "SwiftProtobuf Framework",
+          "version": "v1.26.0",
+          "authors": "Apple Inc.",
+          "url": "https://github.com/apple/swift-protobuf"
+        }
+      ],
       "subtitle": "Spotify Ad-Free, and Other QOL Enhancements.",
       "versions": [
         {
@@ -196,42 +199,50 @@
       "bundleIdentifier": "com.yodaluca23.SpotveeC",
       "developerName": "Whoeevee & Asdfzxcvbn",
       "contact": {
-          "web": "https://github.com/SpotCompiled"
+        "web": "https://github.com/SpotCompiled"
       },
-      "version": "3.0.3",
-      "versionDate": "2024-6-25",
-      "size": 72370900,
+      "version": "3.0.4",
+      "versionDate": "2024-7-11",
+      "size": 71620694,
       "minOSVersion": "15.0",
-      "changelog": "Updated EeveeSpotify to Swift 4.3, fixed several bugs. Fixed Couldn't load the lyrics for this song message when they are restricted on Musixmatch\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.3",
-      "versionDescription": "Updated EeveeSpotify to Swift 4.3, fixed several bugs. Fixed Couldn't load the lyrics for this song message when they are restricted on Musixmatch\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.3",
+      "changelog": "Updated EeveeSpotify to Swift 4.4, fixed several bugs. Fixed crashes on iOS 14 (Spotify 8.9.8) and added support for 8.9.54\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.4",
+      "versionDescription": "Updated EeveeSpotify to Swift 4.4, fixed several bugs. Fixed crashes on iOS 14 (Spotify 8.9.8) and added support for 8.9.54\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.4",
       "information": [
-                {
-                    "item": "Spotify",
-                    "version": "v8.9.50",
-                    "authors": "Spotify AB",
-                    "url": "https://www.spotify.com"
-                },
-                {
-                    "item": "EeveeSpotify",
-                    "version": "Swift 4.3",
-                    "authors": "whoeevee",
-                    "url": "https://github.com/whoeevee/EeveeSpotify"
-                },
-                {
-                    "item": "Orion Runtime",
-                    "version": "v1.0.1",
-                    "authors": "Theos Team",
-                    "url": "https://orion.theos.dev"
-                },
-                {
-                    "item": "SwiftProtobuf Framework",
-                    "version": "v1.26.0",
-                    "authors": "Apple Inc.",
-                    "url": "https://github.com/apple/swift-protobuf"
-                }
-            ],
+        {
+          "item": "Spotify",
+          "version": "v8.9.54",
+          "authors": "Spotify AB",
+          "url": "https://www.spotify.com"
+        },
+        {
+          "item": "EeveeSpotify",
+          "version": "Swift 4.4",
+          "authors": "Whoeevee & Asdfzxcvbn",
+          "url": "https://github.com/whoeevee/EeveeSpotify"
+        },
+        {
+          "item": "Orion Runtime",
+          "version": "v1.0.1",
+          "authors": "Theos Team",
+          "url": "https://orion.theos.dev"
+        },
+        {
+          "item": "SwiftProtobuf Framework",
+          "version": "v1.26.0",
+          "authors": "Apple Inc.",
+          "url": "https://github.com/apple/swift-protobuf"
+        }
+      ],
       "subtitle": "Spotify Free Premium Tweak",
       "versions": [
+        {
+          "version": "3.0.4",
+          "date": "2024-7-11",
+          "localizedDescription": "Updated EeveeSpotify to Swift 4.4, fixed several bugs. Fixed crashes on iOS 14 (Spotify 8.9.8) and added support for 8.9.54\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.4",
+          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.4/SpotveeC.v3.0.4_v8.9.54.ipa",
+          "size": 71620694,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "3.0.3",
           "date": "2024-6-25",
@@ -313,7 +324,7 @@
           "minOSVersion": "15.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.3/SpotveeC.v3.0.3_v8.9.50.ipa",
+      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.4/SpotveeC.v3.0.4_v8.9.54.ipa",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and enables almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
@@ -357,7 +368,7 @@
       "bundleIdentifier": "com.yodaluca23.SpotilifeC",
       "developerName": "Julioverne",
       "contact": {
-          "web": "https://github.com/SpotCompiled"
+        "web": "https://github.com/SpotCompiled"
       },
       "version": "1.2.3",
       "versionDate": "2023-1-9",
@@ -366,22 +377,22 @@
       "changelog": "-Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.3",
       "versionDescription": "- Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.3",
       "information": [
-                {
-                    "item": "Spotify",
-                    "version": "v8.6.42",
-                    "authors": "Spotify AB",
-                    "url": "https://www.spotify.com"
-                },
-                {
-                    "item": "Spotilife",
-                    "version": "v1.8",
-                    "authors": "julioverne",
-                    "url": "https://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife"
-                }
-            ],
+        {
+          "item": "Spotify",
+          "version": "v8.6.42",
+          "authors": "Spotify AB",
+          "url": "https://www.spotify.com"
+        },
+        {
+          "item": "Spotilife",
+          "version": "v1.8",
+          "authors": "julioverne",
+          "url": "https://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife"
+        }
+      ],
       "subtitle": "Spotify Free Premium Tweak",
       "versions": [
-                {
+        {
           "version": "1.2.3",
           "date": "2023-1-1",
           "localizedDescription": "- Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.3",
@@ -389,7 +400,7 @@
           "size": 47954000,
           "minOSVersion": "13.0"
         },
-                {
+        {
           "version": "1.2.2",
           "date": "2023-1-1",
           "localizedDescription": "First Version that actually works! 🥳 (Can Verifiy)\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.2",
