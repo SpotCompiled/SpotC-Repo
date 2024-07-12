@@ -210,8 +210,8 @@
         "web": "https://github.com/SpotCompiled"
       },
       "version": "3.0.4",
-      "versionDate": "2024-7-11",
-      "size": 71620694,
+      "versionDate": "2024-7-12",
+      "size": 71698470,
       "minOSVersion": "15.0",
       "changelog": "Updated EeveeSpotify to Swift 4.4, fixed several bugs. Fixed crashes on iOS 14 (Spotify 8.9.8) and added support for 8.9.54\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.4",
       "versionDescription": "Updated EeveeSpotify to Swift 4.4, fixed several bugs. Fixed crashes on iOS 14 (Spotify 8.9.8) and added support for 8.9.54\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.4",
@@ -245,10 +245,10 @@
       "versions": [
         {
           "version": "3.0.4",
-          "date": "2024-7-11",
+          "date": "2024-7-12",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.4, fixed several bugs. Fixed crashes on iOS 14 (Spotify 8.9.8) and added support for 8.9.54\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.4",
           "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.4/SpotveeC.v3.0.4_v8.9.54.ipa",
-          "size": 71620694,
+          "size": 71698470,
           "minOSVersion": "15.0"
         },
         {
