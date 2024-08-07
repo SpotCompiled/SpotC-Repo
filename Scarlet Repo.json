@@ -241,16 +241,16 @@
       "contact": {
         "web": "https://github.com/SpotCompiled"
       },
-      "version": "3.1.1",
-      "versionDate": "2024-7-29",
-      "size": 73484003,
+      "version": "3.1.2",
+      "versionDate": "2024-8-07",
+      "size": 73956173,
       "minOSVersion": "15.0",
-      "changelog": "Updated EeveeSpotify to Swift 4.6, fixed several bugs. Fixed popups white background bug on iPad\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.1",
-      "versionDescription": "Updated EeveeSpotify to Swift 4.6, fixed several bugs. Fixed popups white background bug on iPad\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.1",
+      "changelog": "Updated Spotify to 8.9.62\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.2",
+      "versionDescription": "Updated Spotify to 8.9.62\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.2",
       "information": [
         {
           "item": "Spotify",
-          "version": "v8.9.60",
+          "version": "v8.9.62",
           "authors": "Spotify AB",
           "url": "https://www.spotify.com"
         },
@@ -275,6 +275,14 @@
       ],
       "subtitle": "Spotify Free Premium Tweak",
       "versions": [
+        {
+          "version": "3.1.2",
+          "date": "2024-8-07",
+          "localizedDescription": "Updated Spotify to 8.9.62\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.2",
+          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.2/SpotveeC.v3.1.2_v8.9.62.ipa",
+          "size": 73956173,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "3.1.1",
           "date": "2024-7-29",
@@ -388,7 +396,7 @@
           "minOSVersion": "15.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.1/SpotveeC.v3.1.1_v8.9.60.ipa",
+      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.2/SpotveeC.v3.1.2_v8.9.62.ipa",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and enables almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
