@@ -229,55 +229,55 @@
       "tintColor": "1ed760",
       "permissions": [
         {
-          "name": "AppleMusic",
+          "type": "AppleMusic",
           "usageDescription": "This will let you play your imported music on Spotify."
         },
         {
-          "name": "BluetoothAlways",
+          "type": "BluetoothAlways",
           "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
         },
         {
-          "name": "BluetoothPeripheral",
+          "type": "BluetoothPeripheral",
           "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
         },
         {
-          "name": "Camera",
+          "type": "Camera",
           "usageDescription": "This lets you scan Spotify Codes."
         },
         {
-          "name": "FaceID",
+          "type": "FaceID",
           "usageDescription": "This lets you set access restrictions using Face ID."
         },
         {
-          "name": "HealthShare",
+          "type": "HealthShare",
           "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
-          "name": "HealthUpdate",
+          "type": "HealthUpdate",
           "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
-          "name": "LocalNetwork",
+          "type": "LocalNetwork",
           "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
         },
         {
-          "name": "Microphone",
+          "type": "Microphone",
           "usageDescription": "This lets you control Spotify using your voice."
         },
         {
-          "name": "Motion",
+          "type": "Motion",
           "usageDescription": "We will use this to understand which audio motivates you most."
         },
         {
-          "name": "PhotoLibraryAdd",
+          "type": "PhotoLibraryAdd",
           "usageDescription": "This lets you save images to your Photo Library."
         },
         {
-          "name": "PhotoLibrary",
+          "type": "PhotoLibrary",
           "usageDescription": "This lets you select images from your Photo Library."
         },
         {
-          "name": "UserTracking",
+          "type": "UserTracking",
           "usageDescription": "Your data will be used to deliver personalized ads or content to you."
         }
       ],
@@ -520,55 +520,55 @@
       "tintColor": "1ed760",
       "permissions": [
         {
-          "name": "AppleMusic",
+          "type": "AppleMusic",
           "usageDescription": "This will let you play your imported music on Spotify."
         },
         {
-          "name": "BluetoothAlways",
+          "type": "BluetoothAlways",
           "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
         },
         {
-          "name": "BluetoothPeripheral",
+          "type": "BluetoothPeripheral",
           "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
         },
         {
-          "name": "Camera",
+          "type": "Camera",
           "usageDescription": "This lets you scan Spotify Codes."
         },
         {
-          "name": "FaceID",
+          "type": "FaceID",
           "usageDescription": "This lets you set access restrictions using Face ID."
         },
         {
-          "name": "HealthShare",
+          "type": "HealthShare",
           "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
-          "name": "HealthUpdate",
+          "type": "HealthUpdate",
           "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
-          "name": "LocalNetwork",
+          "type": "LocalNetwork",
           "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
         },
         {
-          "name": "Microphone",
+          "type": "Microphone",
           "usageDescription": "This lets you control Spotify using your voice."
         },
         {
-          "name": "Motion",
+          "type": "Motion",
           "usageDescription": "We will use this to understand which audio motivates you most."
         },
         {
-          "name": "PhotoLibraryAdd",
+          "type": "PhotoLibraryAdd",
           "usageDescription": "This lets you save images to your Photo Library."
         },
         {
-          "name": "PhotoLibrary",
+          "type": "PhotoLibrary",
           "usageDescription": "This lets you select images from your Photo Library."
         },
         {
-          "name": "UserTracking",
+          "type": "UserTracking",
           "usageDescription": "Your data will be used to deliver personalized ads or content to you."
         }
       ],
@@ -675,55 +675,55 @@
       "tintColor": "1ed760",
       "permissions": [
         {
-          "name": "AppleMusic",
+          "type": "AppleMusic",
           "usageDescription": "This will let you play your imported music on Spotify."
         },
         {
-          "name": "BluetoothAlways",
+          "type": "BluetoothAlways",
           "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
         },
         {
-          "name": "BluetoothPeripheral",
+          "type": "BluetoothPeripheral",
           "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
         },
         {
-          "name": "Camera",
+          "type": "Camera",
           "usageDescription": "This lets you scan Spotify Codes."
         },
         {
-          "name": "FaceID",
+          "type": "FaceID",
           "usageDescription": "This lets you set access restrictions using Face ID."
         },
         {
-          "name": "HealthShare",
+          "type": "HealthShare",
           "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
-          "name": "HealthUpdate",
+          "type": "HealthUpdate",
           "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
-          "name": "LocalNetwork",
+          "type": "LocalNetwork",
           "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
         },
         {
-          "name": "Microphone",
+          "type": "Microphone",
           "usageDescription": "This lets you control Spotify using your voice."
         },
         {
-          "name": "Motion",
+          "type": "Motion",
           "usageDescription": "We will use this to understand which audio motivates you most."
         },
         {
-          "name": "PhotoLibraryAdd",
+          "type": "PhotoLibraryAdd",
           "usageDescription": "This lets you save images to your Photo Library."
         },
         {
-          "name": "PhotoLibrary",
+          "type": "PhotoLibrary",
           "usageDescription": "This lets you select images from your Photo Library."
         },
         {
-          "name": "UserTracking",
+          "type": "UserTracking",
           "usageDescription": "Your data will be used to deliver personalized ads or content to you."
         }
       ],
