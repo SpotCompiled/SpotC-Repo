@@ -283,10 +283,6 @@
           "usageDescription": "This lets you set access restrictions using Face ID."
         },
         {
-          "type": "health",
-          "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
-        },
-        {
           "type": "network",
           "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
         },
@@ -301,6 +297,10 @@
         {
           "type": "photos",
           "usageDescription": "This lets you save images to your Photo Library."
+        },
+        {
+          "type": "health",
+          "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
           "type": "tracking",
@@ -558,10 +558,6 @@
           "usageDescription": "This lets you set access restrictions using Face ID."
         },
         {
-          "type": "health",
-          "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
-        },
-        {
           "type": "network",
           "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
         },
@@ -576,6 +572,10 @@
         {
           "type": "photos",
           "usageDescription": "This lets you save images to your Photo Library."
+        },
+        {
+          "type": "health",
+          "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
           "type": "tracking",
@@ -697,10 +697,6 @@
           "usageDescription": "This lets you set access restrictions using Face ID."
         },
         {
-          "type": "health",
-          "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
-        },
-        {
           "type": "network",
           "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
         },
@@ -715,6 +711,10 @@
         {
           "type": "photos",
           "usageDescription": "This lets you save images to your Photo Library."
+        },
+        {
+          "type": "health",
+          "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
           "type": "tracking",
