@@ -267,55 +267,43 @@
       "beta": false,
       "permissions": [
         {
-          "type": "AppleMusic",
+          "type": "music",
           "usageDescription": "This will let you play your imported music on Spotify."
         },
         {
-          "type": "BluetoothAlways",
+          "type": "bluetooth",
           "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
         },
         {
-          "type": "BluetoothPeripheral",
-          "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
-        },
-        {
-          "type": "Camera",
+          "type": "camera",
           "usageDescription": "This lets you scan Spotify Codes."
         },
         {
-          "type": "FaceID",
+          "type": "faceid",
           "usageDescription": "This lets you set access restrictions using Face ID."
         },
         {
-          "type": "HealthShare",
+          "type": "health",
           "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
-          "type": "HealthUpdate",
-          "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
-        },
-        {
-          "type": "LocalNetwork",
+          "type": "network",
           "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
         },
         {
-          "type": "Microphone",
+          "type": "microphone",
           "usageDescription": "This lets you control Spotify using your voice."
         },
         {
-          "type": "Motion",
+          "type": "motion",
           "usageDescription": "We will use this to understand which audio motivates you most."
         },
         {
-          "type": "PhotoLibraryAdd",
+          "type": "photos",
           "usageDescription": "This lets you save images to your Photo Library."
         },
         {
-          "type": "PhotoLibrary",
-          "usageDescription": "This lets you select images from your Photo Library."
-        },
-        {
-          "type": "UserTracking",
+          "type": "tracking",
           "usageDescription": "Your data will be used to deliver personalized ads or content to you."
         }
       ]
@@ -554,55 +542,43 @@
       "beta": false,
       "permissions": [
         {
-          "type": "AppleMusic",
+          "type": "music",
           "usageDescription": "This will let you play your imported music on Spotify."
         },
         {
-          "type": "BluetoothAlways",
+          "type": "bluetooth",
           "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
         },
         {
-          "type": "BluetoothPeripheral",
-          "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
-        },
-        {
-          "type": "Camera",
+          "type": "camera",
           "usageDescription": "This lets you scan Spotify Codes."
         },
         {
-          "type": "FaceID",
+          "type": "faceid",
           "usageDescription": "This lets you set access restrictions using Face ID."
         },
         {
-          "type": "HealthShare",
+          "type": "health",
           "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
-          "type": "HealthUpdate",
-          "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
-        },
-        {
-          "type": "LocalNetwork",
+          "type": "network",
           "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
         },
         {
-          "type": "Microphone",
+          "type": "microphone",
           "usageDescription": "This lets you control Spotify using your voice."
         },
         {
-          "type": "Motion",
+          "type": "motion",
           "usageDescription": "We will use this to understand which audio motivates you most."
         },
         {
-          "type": "PhotoLibraryAdd",
+          "type": "photos",
           "usageDescription": "This lets you save images to your Photo Library."
         },
         {
-          "type": "PhotoLibrary",
-          "usageDescription": "This lets you select images from your Photo Library."
-        },
-        {
-          "type": "UserTracking",
+          "type": "tracking",
           "usageDescription": "Your data will be used to deliver personalized ads or content to you."
         }
       ]
@@ -705,55 +681,43 @@
       "beta": false,
       "permissions": [
         {
-          "type": "AppleMusic",
+          "type": "music",
           "usageDescription": "This will let you play your imported music on Spotify."
         },
         {
-          "type": "BluetoothAlways",
+          "type": "bluetooth",
           "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
         },
         {
-          "type": "BluetoothPeripheral",
-          "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
-        },
-        {
-          "type": "Camera",
+          "type": "camera",
           "usageDescription": "This lets you scan Spotify Codes."
         },
         {
-          "type": "FaceID",
+          "type": "faceid",
           "usageDescription": "This lets you set access restrictions using Face ID."
         },
         {
-          "type": "HealthShare",
+          "type": "health",
           "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
         },
         {
-          "type": "HealthUpdate",
-          "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
-        },
-        {
-          "type": "LocalNetwork",
+          "type": "network",
           "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
         },
         {
-          "type": "Microphone",
+          "type": "microphone",
           "usageDescription": "This lets you control Spotify using your voice."
         },
         {
-          "type": "Motion",
+          "type": "motion",
           "usageDescription": "We will use this to understand which audio motivates you most."
         },
         {
-          "type": "PhotoLibraryAdd",
+          "type": "photos",
           "usageDescription": "This lets you save images to your Photo Library."
         },
         {
-          "type": "PhotoLibrary",
-          "usageDescription": "This lets you select images from your Photo Library."
-        },
-        {
-          "type": "UserTracking",
+          "type": "tracking",
           "usageDescription": "Your data will be used to deliver personalized ads or content to you."
         }
       ]
