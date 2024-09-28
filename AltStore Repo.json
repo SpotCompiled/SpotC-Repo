@@ -245,6 +245,11 @@
       "tintColor": "1ed760",
       "appPermissions": {
         "entitlements": [
+          "get-task-allow",
+          "com.apple.developer.game-center",
+          "com.apple.developer.group-session",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
           "com.apple.security.application-groups",
           "com.apple.developer.siri",
           "com.apple.developer.associated-domains",
@@ -257,6 +262,17 @@
           "com.apple.developer.networking.wifi-info"
         ],
         "privacy": {
+          "NSAppleMusicUsageDescription": "This lets you play your imported music on Spotify.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you use Spotify with bluetooth accessories requiring always on.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you use Spotify with bluetooth peripherals.",
+          "NSFaceIDUsageDescription": "This lets you identify through FaceID",
+          "NSHealthShareUsageDescription": "This lets you share HealthKit data to provide personalised audio for your workouts.",
+          "NSHealthUpdateUsageDescription": "This lets you use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSLocationWhenInUseUsageDescription": "This lets you use Spotify with location-based features.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+          "NSUserTrackingUsageDescription": "This lets you use your data to deliver personalized ads or content to you.",
           "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
           "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
           "NSPhotosUsageDescription": "This lets you save and select images to and from your Photo Library.",
@@ -540,6 +556,10 @@
       "tintColor": "1ed760",
       "appPermissions": {
         "entitlements": [
+          "com.apple.developer.game-center",
+          "com.apple.developer.group-session",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
           "com.apple.security.application-groups",
           "com.apple.developer.siri",
           "com.apple.developer.associated-domains",
@@ -552,6 +572,17 @@
           "com.apple.developer.networking.wifi-info"
         ],
         "privacy": {
+          "NSAppleMusicUsageDescription": "This lets you play your imported music on Spotify.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you use Spotify with bluetooth accessories requiring always on.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you use Spotify with bluetooth peripherals.",
+          "NSFaceIDUsageDescription": "This lets you identify through FaceID",
+          "NSHealthShareUsageDescription": "This lets you share HealthKit data to provide personalised audio for your workouts.",
+          "NSHealthUpdateUsageDescription": "This lets you use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSLocationWhenInUseUsageDescription": "This lets you use Spotify with location-based features.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+          "NSUserTrackingUsageDescription": "This lets you use your data to deliver personalized ads or content to you.",
           "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
           "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
           "NSPhotosUsageDescription": "This lets you save and select images to and from your Photo Library.",
@@ -695,6 +726,16 @@
           "com.apple.developer.networking.wifi-info"
         ],
         "privacy": {
+          "NSAppleMusicUsageDescription": "This lets you play your imported music on Spotify.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you use Spotify with bluetooth accessories requiring always on.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you use Spotify with bluetooth peripherals.",
+          "NSFaceIDUsageDescription": "This lets you identify through FaceID",
+          "NSHealthUpdateUsageDescription": "This lets you use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSLocationWhenInUseUsageDescription": "This lets you use Spotify with location-based features.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+          "NSUserTrackingUsageDescription": "This lets you use your data to deliver personalized ads or content to you.",
           "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
           "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
           "NSPhotosUsageDescription": "This lets you save and select images to and from your Photo Library.",
