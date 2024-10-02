@@ -297,40 +297,48 @@
       "contact": {
         "web": "https://github.com/SpotCompiled"
       },
-      "version": "3.1.8",
-      "versionDate": "2024-9-20",
-      "size": 76382559,
+      "version": "3.1.9",
+      "versionDate": "2024-10-02",
+      "size": 76834434,
       "minOSVersion": "15.0",
-      "changelog": "Updated EeveeSpotify to Swift 5.2, fixed several bugs. Localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.8",
-      "versionDescription": "Updated EeveeSpotify to Swift 5.2, fixed several bugs. Localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.8",
+      "changelog": "Updated EeveeSpotify to Swift 5.3, fixed several bugs. **Liked Songs on artist page**\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.9",
+      "versionDescription": "Updated EeveeSpotify to Swift 5.3, fixed several bugs. **Liked Songs on artist page**\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.9",
       "information": [
         {
           "item": "Spotify",
-          "version": "v8.9.76",
+          "version": "v8.9.78",
           "authors": "Spotify AB",
           "url": "https://www.spotify.com"
         },
         {
           "item": "EeveeSpotify",
-          "version": "Swift 5.2",
+          "version": "Swift 5.3",
           "authors": "Whoeevee & Asdfzxcvbn",
           "url": "https://github.com/whoeevee/EeveeSpotify"
         },
         {
           "item": "Orion Runtime",
-          "version": "v1.0.1",
+          "version": "v1.0.2",
           "authors": "Theos Team",
           "url": "https://orion.theos.dev"
         },
         {
           "item": "SwiftProtobuf Framework",
-          "version": "v1.26.0",
+          "version": "v1.28.1",
           "authors": "Apple Inc.",
           "url": "https://github.com/apple/swift-protobuf"
         }
       ],
       "subtitle": "Spotify Free Premium Tweak",
       "versions": [
+        {
+          "version": "3.1.9",
+          "date": "2024-10-02",
+          "localizedDescription": "Updated EeveeSpotify to Swift 5.3, fixed several bugs. **Liked Songs on artist page**\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.9",
+          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.9/SpotveeC.v3.1.9_v8.9.78.ipa",
+          "size": 76834434,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "3.1.8",
           "date": "2024-9-20",
@@ -500,7 +508,7 @@
           "minOSVersion": "15.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.8/SpotveeC.v3.1.8_v8.9.76.ipa",
+      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.9/SpotveeC.v3.1.9_v8.9.78.ipa",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and enables almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
