@@ -384,7 +384,10 @@
           "NSBluetoothUsageDescription": "This lets you use Spotify with external accessories.",
           "NSNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
           "NSFaceidUsageDescription": "This lets you set access restrictions using Face ID.",
-          "NSMotionUsageDescription": "Used to control your tempo for Spotify Running."
+          "NSMotionUsageDescription": "Used to control your tempo for Spotify Running.",
+          "NSCalendarsUsageDescription": "This lets you access your calendar for scheduling features.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets you write to your calendar for scheduling features.",
+          "NSContactsUsageDescription": "This lets you access your contacts for better integration."
         }
       },
       "screenshotURLs": [
@@ -798,7 +801,10 @@
           "NSBluetoothUsageDescription": "This lets you use Spotify with external accessories.",
           "NSNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
           "NSFaceidUsageDescription": "This lets you set access restrictions using Face ID.",
-          "NSMotionUsageDescription": "Used to control your tempo for Spotify Running."
+          "NSMotionUsageDescription": "Used to control your tempo for Spotify Running.",
+          "NSCalendarsUsageDescription": "This lets you access your calendar for scheduling features.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets you write to your calendar for scheduling features.",
+          "NSContactsUsageDescription": "This lets you access your contacts for better integration."
         }
       },
       "screenshotURLs": [
@@ -951,7 +957,10 @@
           "NSBluetoothUsageDescription": "This lets you use Spotify with external accessories.",
           "NSNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
           "NSFaceidUsageDescription": "This lets you set access restrictions using Face ID.",
-          "NSMotionUsageDescription": "Used to control your tempo for Spotify Running."
+          "NSMotionUsageDescription": "Used to control your tempo for Spotify Running.",
+          "NSCalendarsUsageDescription": "This lets you access your calendar for scheduling features.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets you write to your calendar for scheduling features.",
+          "NSContactsUsageDescription": "This lets you access your contacts for better integration."
         }
       },
       "screenshotURLs": [
