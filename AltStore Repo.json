@@ -371,7 +371,8 @@
           "com.apple.developer.networking.multicast",
           "aps-environment",
           "com.apple.developer.applesignin",
-          "com.apple.developer.networking.wifi-info"
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.usernotifications.communication"
         ],
         "privacy": {
           "NSAppleMusicUsageDescription": "This lets you play your imported music on Spotify.",
@@ -796,7 +797,8 @@
           "com.apple.developer.networking.multicast",
           "aps-environment",
           "com.apple.developer.applesignin",
-          "com.apple.developer.networking.wifi-info"
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.usernotifications.communication"
         ],
         "privacy": {
           "NSAppleMusicUsageDescription": "This lets you play your imported music on Spotify.",
