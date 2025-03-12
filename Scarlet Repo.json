@@ -449,16 +449,16 @@
       "contact": {
         "web": "https://github.com/SpotCompiled"
       },
-      "version": "3.3.6",
-      "versionDate": "2025-3-10",
-      "size": 79817954,
+      "version": "3.3.7",
+      "versionDate": "2025-3-12",
+      "size": 79961369,
       "minOSVersion": "15.0",
-      "changelog": "Updated Spotify to 9.0.24.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.6",
-      "versionDescription": "Updated Spotify to 9.0.24.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.6",
+      "changelog": "Updated Spotify to 9.0.26.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.7",
+      "versionDescription": "Updated Spotify to 9.0.26.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.7",
       "information": [
         {
           "item": "Spotify",
-          "version": "v9.0.24",
+          "version": "v9.0.26",
           "authors": "Spotify AB",
           "url": "https://www.spotify.com"
         },
@@ -483,6 +483,14 @@
       ],
       "subtitle": "Spotify Free Premium Tweak",
       "versions": [
+        {
+          "version": "3.3.7",
+          "date": "2025-3-12",
+          "localizedDescription": "Updated Spotify to 9.0.26.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.7",
+          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.7/SpotveeC.v3.3.7_v9.0.26.ipa",
+          "size": 79961369,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "3.3.6",
           "date": "2025-3-10",
@@ -804,7 +812,7 @@
           "minOSVersion": "15.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.6/SpotveeC.v3.3.6_v9.0.24.ipa",
+      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.7/SpotveeC.v3.3.7_v9.0.26.ipa",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and enables almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
