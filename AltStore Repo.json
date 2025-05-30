@@ -586,16 +586,16 @@
       "contact": {
         "web": "https://github.com/SpotCompiled"
       },
-      "version": "3.3.16",
-      "versionDate": "2025-5-27",
-      "size": 79956536,
+      "version": "3.3.17",
+      "versionDate": "2025-5-30",
+      "size": 80010836,
       "minOSVersion": "15.0",
-      "changelog": "Updated EeveeSpotify to Swift 5.9.8. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.16",
-      "versionDescription": "Updated EeveeSpotify to Swift 5.9.8. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.16",
+      "changelog": "Updated Spotify to 9.0.48.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.17",
+      "versionDescription": "Updated Spotify to 9.0.48.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.17",
       "information": [
         {
           "item": "Spotify",
-          "version": "v9.0.46",
+          "version": "v9.0.48",
           "authors": "Spotify AB",
           "url": "https://www.spotify.com"
         },
@@ -620,6 +620,14 @@
       ],
       "subtitle": "Spotify Free Premium Tweak",
       "versions": [
+        {
+          "version": "3.3.17",
+          "date": "2025-5-30",
+          "localizedDescription": "Updated Spotify to 9.0.48.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.17",
+          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.17/SpotveeC.v3.3.17_v9.0.48_ALTSTORESOURCE_ONLY.ipa",
+          "size": 80010836,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "3.3.16",
           "date": "2025-5-27",
@@ -1021,7 +1029,7 @@
           "minOSVersion": "15.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.16/SpotveeC.v3.3.16_v9.0.46_ALTSTORESOURCE_ONLY.ipa",
+      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.17/SpotveeC.v3.3.17_v9.0.48_ALTSTORESOURCE_ONLY.ipa",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and enables almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
