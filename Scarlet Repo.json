@@ -21,7 +21,7 @@
       "version": "2.5.0",
       "versionDate": "2025-6-20",
       "size": 80582249,
-      "minOSVersion": "15.0",
+      "minOSVersion": "16.1",
       "changelog": "Updated EeveeSpotify to Swift 6.0. Share to LiveContainer and Show Instagram Destination features ([commissioned by @Laiteux](https://github.com/whoeevee/EeveeSpotify/issues/722#issuecomment-2975733084))\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.0",
       "versionDescription": "Updated EeveeSpotify to Swift 6.0. Share to LiveContainer and Show Instagram Destination features ([commissioned by @Laiteux](https://github.com/whoeevee/EeveeSpotify/issues/722#issuecomment-2975733084))\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.0",
       "information": [
@@ -76,7 +76,7 @@
           "localizedDescription": "Updated EeveeSpotify to Swift 6.0. Share to LiveContainer and Show Instagram Destination features ([commissioned by @Laiteux](https://github.com/whoeevee/EeveeSpotify/issues/722#issuecomment-2975733084))\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.0",
           "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.5.0/SpotC++.v2.5.0_v9.0.52.ipa",
           "size": 80582249,
-          "minOSVersion": "15.0"
+          "minOSVersion": "16.1"
         },
         {
           "version": "2.4.18",
@@ -84,7 +84,7 @@
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.9. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.18",
           "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.18/SpotC++.v2.4.18_v9.0.50.ipa",
           "size": 80285848,
-          "minOSVersion": "15.0"
+          "minOSVersion": "16.1"
         },
         {
           "version": "2.4.17",
@@ -548,7 +548,7 @@
       "version": "3.4.0",
       "versionDate": "2025-6-20",
       "size": 80209263,
-      "minOSVersion": "15.0",
+      "minOSVersion": "16.1",
       "changelog": "Updated EeveeSpotify to Swift 6.0. Share to LiveContainer and Show Instagram Destination features ([commissioned by @Laiteux](https://github.com/whoeevee/EeveeSpotify/issues/722#issuecomment-2975733084))\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.0",
       "versionDescription": "Updated EeveeSpotify to Swift 6.0. Share to LiveContainer and Show Instagram Destination features ([commissioned by @Laiteux](https://github.com/whoeevee/EeveeSpotify/issues/722#issuecomment-2975733084))\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.0",
       "information": [
@@ -585,7 +585,7 @@
           "localizedDescription": "Updated EeveeSpotify to Swift 6.0. Share to LiveContainer and Show Instagram Destination features ([commissioned by @Laiteux](https://github.com/whoeevee/EeveeSpotify/issues/722#issuecomment-2975733084))\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.0",
           "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.4.0/SpotveeC.v3.4.0_v9.0.52.ipa",
           "size": 80209263,
-          "minOSVersion": "15.0"
+          "minOSVersion": "16.1"
         },
         {
           "version": "3.3.18",
@@ -593,7 +593,7 @@
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.9. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.18",
           "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.18/SpotveeC.v3.3.18_v9.0.50.ipa",
           "size": 79913418,
-          "minOSVersion": "15.0"
+          "minOSVersion": "16.1"
         },
         {
           "version": "3.3.17",
