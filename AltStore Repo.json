@@ -74,7 +74,7 @@
           "version": "2.5.5",
           "date": "2025-8-14",
           "localizedDescription": "Updated EeveeSpotify to Swift 6.1. EeveeSpotify premium plan Info (thanks @GBanan)\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.5",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.5.5/SpotC++.v2.5.5_v9.0.68_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.5.5/SpotC++.v2.5.5_v9.0.68_ALTSTORESOURCE_ONLY.ipa",
           "size": 83690654,
           "minOSVersion": "16.1"
         },
@@ -82,7 +82,7 @@
           "version": "2.5.4",
           "date": "2025-8-01",
           "localizedDescription": "Updated Spotify to 9.0.66.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.4",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.5.4/SpotC++.v2.5.4_v9.0.66_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.5.4/SpotC++.v2.5.4_v9.0.66_ALTSTORESOURCE_ONLY.ipa",
           "size": 82964831,
           "minOSVersion": "16.1"
         },
@@ -90,7 +90,7 @@
           "version": "2.5.3",
           "date": "2025-7-22",
           "localizedDescription": "Updated Spotify to 9.0.62.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.5.3/SpotC++.v2.5.3_v9.0.62_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.5.3/SpotC++.v2.5.3_v9.0.62_ALTSTORESOURCE_ONLY.ipa",
           "size": 81942922,
           "minOSVersion": "16.1"
         },
@@ -98,7 +98,7 @@
           "version": "2.5.2",
           "date": "2025-7-06",
           "localizedDescription": "Updated EeveeSpotify to Swift 6.0.2. Updated Spanish localizaton by @longopy\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.5.2/SpotC++.v2.5.2_v9.0.58_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.5.2/SpotC++.v2.5.2_v9.0.58_ALTSTORESOURCE_ONLY.ipa",
           "size": 81142851,
           "minOSVersion": "16.1"
         },
@@ -106,7 +106,7 @@
           "version": "2.5.1",
           "date": "2025-6-27",
           "localizedDescription": "Updated EeveeSpotify to Swift 6.0.1. Updated Traditional Chinese localizaton by @ElliotCHEN37\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.5.1/SpotC++.v2.5.1_v9.0.56_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.5.1/SpotC++.v2.5.1_v9.0.56_ALTSTORESOURCE_ONLY.ipa",
           "size": 81064247,
           "minOSVersion": "16.1"
         },
@@ -114,7 +114,7 @@
           "version": "2.5.0",
           "date": "2025-6-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 6.0. Share to LiveContainer and Show Instagram Destination features ([commissioned by @Laiteux](https://github.com/whoeevee/EeveeSpotify/issues/722#issuecomment-2975733084))\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.5.0/SpotC++.v2.5.0_v9.0.52_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.5.0/SpotC++.v2.5.0_v9.0.52_ALTSTORESOURCE_ONLY.ipa",
           "size": 80581683,
           "minOSVersion": "16.1"
         },
@@ -122,7 +122,7 @@
           "version": "2.4.18",
           "date": "2025-6-07",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.9. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.18",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.18/SpotC++.v2.4.18_v9.0.50_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.18/SpotC++.v2.4.18_v9.0.50_ALTSTORESOURCE_ONLY.ipa",
           "size": 80285282,
           "minOSVersion": "16.1"
         },
@@ -130,7 +130,7 @@
           "version": "2.4.17",
           "date": "2025-5-30",
           "localizedDescription": "Updated Spotify to 9.0.48.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.17",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.17/SpotC++.v2.4.17_v9.0.48_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.17/SpotC++.v2.4.17_v9.0.48_ALTSTORESOURCE_ONLY.ipa",
           "size": 80383673,
           "minOSVersion": "15.0"
         },
@@ -138,7 +138,7 @@
           "version": "2.4.16",
           "date": "2025-5-27",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.8. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.16",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.16/SpotC++.v2.4.16_v9.0.46_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.16/SpotC++.v2.4.16_v9.0.46_ALTSTORESOURCE_ONLY.ipa",
           "size": 80329066,
           "minOSVersion": "15.0"
         },
@@ -146,7 +146,7 @@
           "version": "2.4.15",
           "date": "2025-5-22",
           "localizedDescription": "Updated Spotify to 9.0.44.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.15",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.15/SpotC++.v2.4.15_v9.0.44_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.15/SpotC++.v2.4.15_v9.0.44_ALTSTORESOURCE_ONLY.ipa",
           "size": 80090122,
           "minOSVersion": "15.0"
         },
@@ -154,7 +154,7 @@
           "version": "2.4.14",
           "date": "2025-5-15",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.7. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.14",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.14/SpotC++.v2.4.14_v9.0.42_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.14/SpotC++.v2.4.14_v9.0.42_ALTSTORESOURCE_ONLY.ipa",
           "size": 81454203,
           "minOSVersion": "15.0"
         },
@@ -162,7 +162,7 @@
           "version": "2.4.13",
           "date": "2025-5-03",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.6. Fixed player crashes on Spotify 9.0.40\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.13",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.13/SpotC++.v2.4.13_v9.0.40_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.13/SpotC++.v2.4.13_v9.0.40_ALTSTORESOURCE_ONLY.ipa",
           "size": 81178728,
           "minOSVersion": "15.0"
         },
@@ -170,7 +170,7 @@
           "version": "2.4.12",
           "date": "2025-4-26",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.5. Fixed player crashes on Spotify 9.0.36\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.12",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.12/SpotC++.v2.4.12_v9.0.36_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.12/SpotC++.v2.4.12_v9.0.36_ALTSTORESOURCE_ONLY.ipa",
           "size": 80586885,
           "minOSVersion": "15.0"
         },
@@ -178,7 +178,7 @@
           "version": "2.4.11",
           "date": "2025-4-15",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.3. **Fixed lyrics screen crashes on recent Spotify versions**\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.11",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.11/SpotC++.v2.4.11_v9.0.32_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.11/SpotC++.v2.4.11_v9.0.32_ALTSTORESOURCE_ONLY.ipa",
           "size": 79650590,
           "minOSVersion": "15.0"
         },
@@ -186,7 +186,7 @@
           "version": "2.4.10",
           "date": "2025-4-03",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.2. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.10",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.10/SpotC++.v2.4.10_v9.0.32_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.10/SpotC++.v2.4.10_v9.0.32_ALTSTORESOURCE_ONLY.ipa",
           "size": 79650643,
           "minOSVersion": "15.0"
         },
@@ -194,7 +194,7 @@
           "version": "2.4.9",
           "date": "2025-3-27",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.1. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.9",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.9/SpotC++.v2.4.9_v9.0.30_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.9/SpotC++.v2.4.9_v9.0.30_ALTSTORESOURCE_ONLY.ipa",
           "size": 79719002,
           "minOSVersion": "15.0"
         },
@@ -202,7 +202,7 @@
           "version": "2.4.8",
           "date": "2025-3-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9. LRCLIB server address option, heavy settings code refactoring and improvements\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.8",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.8/SpotC++.v2.4.8_v9.0.28_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.8/SpotC++.v2.4.8_v9.0.28_ALTSTORESOURCE_ONLY.ipa",
           "size": 80642530,
           "minOSVersion": "15.0"
         },
@@ -210,7 +210,7 @@
           "version": "2.4.7",
           "date": "2025-3-12",
           "localizedDescription": "Updated Spotify to 9.0.26.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.7",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.7/SpotC++.v2.4.7_v9.0.26_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.7/SpotC++.v2.4.7_v9.0.26_ALTSTORESOURCE_ONLY.ipa",
           "size": 80337839,
           "minOSVersion": "15.0"
         },
@@ -218,7 +218,7 @@
           "version": "2.4.6",
           "date": "2025-3-10",
           "localizedDescription": "Updated Spotify to 9.0.24.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.6",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.6/SpotC++.v2.4.6_v9.0.24_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.6/SpotC++.v2.4.6_v9.0.24_ALTSTORESOURCE_ONLY.ipa",
           "size": 80194462,
           "minOSVersion": "15.0"
         },
@@ -226,7 +226,7 @@
           "version": "2.4.5",
           "date": "2025-3-04",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.8, fixed several bugs. Added support for 9.0.22 (fixed crashing on startup)\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.5",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.5/SpotC++.v2.4.5_v9.0.22_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.5/SpotC++.v2.4.5_v9.0.22_ALTSTORESOURCE_ONLY.ipa",
           "size": 79652564,
           "minOSVersion": "15.0"
         },
@@ -234,7 +234,7 @@
           "version": "2.4.4",
           "date": "2025-2-25",
           "localizedDescription": "Updated Spotify to 9.0.20.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.4",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.4/SpotC++.v2.4.4_v9.0.20_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.4/SpotC++.v2.4.4_v9.0.20_ALTSTORESOURCE_ONLY.ipa",
           "size": 79422768,
           "minOSVersion": "15.0"
         },
@@ -242,7 +242,7 @@
           "version": "2.4.3",
           "date": "2025-2-13",
           "localizedDescription": "Updated Spotify to 9.0.18\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.3/SpotC++.v2.4.3_v9.0.18_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.3/SpotC++.v2.4.3_v9.0.18_ALTSTORESOURCE_ONLY.ipa",
           "size": 79667493,
           "minOSVersion": "15.0"
         },
@@ -250,7 +250,7 @@
           "version": "2.4.2",
           "date": "2025-2-05",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.7, fixed several bugs. Fixed local playlist downloading crashes (used to “download” playlists containing only local tracks from your PC within a Wi-Fi network)\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.2/SpotC++.v2.4.2_v9.0.16_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.2/SpotC++.v2.4.2_v9.0.16_ALTSTORESOURCE_ONLY.ipa",
           "size": 78675966,
           "minOSVersion": "15.0"
         },
@@ -258,7 +258,7 @@
           "version": "2.4.1",
           "date": "2025-1-29",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.6, fixed several bugs. Added support for 9.0.14 (fixed crashing on loading lyrics when replacing is enabled)\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.1/SpotC++.v2.4.1_v9.0.14_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.1/SpotC++.v2.4.1_v9.0.14_ALTSTORESOURCE_ONLY.ipa",
           "size": 78214928,
           "minOSVersion": "15.0"
         },
@@ -266,7 +266,7 @@
           "version": "2.4.0",
           "date": "2025-1-15",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.5, fixed several bugs. Updated dumped configuration; may fix app crashes in certain scenarios\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.4.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.4.0/SpotC++.v2.4.0_v9.0.10_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.4.0/SpotC++.v2.4.0_v9.0.10_ALTSTORESOURCE_ONLY.ipa",
           "size": 79605515,
           "minOSVersion": "15.0"
         },
@@ -274,7 +274,7 @@
           "version": "2.3.10",
           "date": "2025-1-15",
           "localizedDescription": "Updated Spotify to version 9.0.10 \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.10",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.10/SpotC++.v2.3.10_v9.0.10_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.3.10/SpotC++.v2.3.10_v9.0.10_ALTSTORESOURCE_ONLY.ipa",
           "size": 79604008,
           "minOSVersion": "15.0"
         },
@@ -282,7 +282,7 @@
           "version": "2.3.9",
           "date": "2025-1-13",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.4, fixed several bugs. Improved LRCLIB lyrics fetching by @Mapleshade20\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.9",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.9/SpotC++.v2.3.9_v9.0.8_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.3.9/SpotC++.v2.3.9_v9.0.8_ALTSTORESOURCE_ONLY.ipa",
           "size": 79336396,
           "minOSVersion": "15.0"
         },
@@ -290,7 +290,7 @@
           "version": "2.3.8",
           "date": "2024-12-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.3, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.8",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.8/SpotC++.v2.3.8_v9.0.2_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.3.8/SpotC++.v2.3.8_v9.0.2_ALTSTORESOURCE_ONLY.ipa",
           "size": 78994008,
           "minOSVersion": "15.0"
         },
@@ -298,7 +298,7 @@
           "version": "2.3.7",
           "date": "2024-12-13",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.3, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.7",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.7/SpotC++.v2.3.7_v9.0.0_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.3.7/SpotC++.v2.3.7_v9.0.0_ALTSTORESOURCE_ONLY.ipa",
           "size": 78714221,
           "minOSVersion": "15.0"
         },
@@ -306,7 +306,7 @@
           "version": "2.3.6",
           "date": "2024-12-06",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.2, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.6",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.6/SpotC++.v2.3.6_v8.9.96_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.3.6/SpotC++.v2.3.6_v8.9.96_ALTSTORESOURCE_ONLY.ipa",
           "size": 78701301,
           "minOSVersion": "15.0"
         },
@@ -314,7 +314,7 @@
           "version": "2.3.5",
           "date": "2024-11-18",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.1, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.5",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.5/SpotC++.v2.3.5_v8.9.92_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.3.5/SpotC++.v2.3.5_v8.9.92_ALTSTORESOURCE_ONLY.ipa",
           "size": 79233172,
           "minOSVersion": "15.0"
         },
@@ -322,7 +322,7 @@
           "version": "2.3.4",
           "date": "2024-11-07",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8, fixed several bugs.  Request Anonymous Token option for Musixmatch\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.4",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.4/SpotC++.v2.3.4_v8.9.90_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.3.4/SpotC++.v2.3.4_v8.9.90_ALTSTORESOURCE_ONLY.ipa",
           "size": 79613873,
           "minOSVersion": "15.0"
         },
@@ -330,7 +330,7 @@
           "version": "2.3.3",
           "date": "2024-10-25",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.7, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.3/SpotC++.v2.3.3_v8.9.86_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.3.3/SpotC++.v2.3.3_v8.9.86_ALTSTORESOURCE_ONLY.ipa",
           "size": 79102641,
           "minOSVersion": "15.0"
         },
@@ -338,7 +338,7 @@
           "version": "2.3.2",
           "date": "2024-10-22",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.6, fixed several bugs. Do Not Replace Lyrics option\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.2/SpotC++.v2.3.2_v8.9.84_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.3.2/SpotC++.v2.3.2_v8.9.84_ALTSTORESOURCE_ONLY.ipa",
           "size": 78593144,
           "minOSVersion": "15.0"
         },
@@ -346,7 +346,7 @@
           "version": "2.3.1",
           "date": "2024-10-09",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.5, fixed several bugs. Contributors Sheet\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.1/SpotC++.v2.3.1_v8.9.82_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.3.1/SpotC++.v2.3.1_v8.9.82_ALTSTORESOURCE_ONLY.ipa",
           "size": 78213560,
           "minOSVersion": "15.0"
         },
@@ -354,7 +354,7 @@
           "version": "2.3.0",
           "date": "2024-10-07",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.4, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.3.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.3.0/SpotC++.v2.3.0_v8.9.80_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.3.0/SpotC++.v2.3.0_v8.9.80_ALTSTORESOURCE_ONLY.ipa",
           "size": 77501398,
           "minOSVersion": "15.0"
         },
@@ -362,7 +362,7 @@
           "version": "2.2.9",
           "date": "2024-10-02",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.3, fixed several bugs. **Liked Songs on artist page**\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.2.9",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.2.9/SpotC++.v2.2.9_v8.9.78_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.2.9/SpotC++.v2.2.9_v8.9.78_ALTSTORESOURCE_ONLY.ipa",
           "size": 77211294,
           "minOSVersion": "15.0"
         },
@@ -370,7 +370,7 @@
           "version": "2.2.8",
           "date": "2024-9-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.2, fixed several bugs. Localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.2.8",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.2.8/SpotC++.v2.2.8_v8.9.76_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.2.8/SpotC++.v2.2.8_v8.9.76_ALTSTORESOURCE_ONLY.ipa",
           "size": 76758933,
           "minOSVersion": "15.0"
         },
@@ -378,7 +378,7 @@
           "version": "2.2.7",
           "date": "2024-9-11",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.1, fixed several bugs. Localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.2.7",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.2.7/SpotC++.v2.2.7_v8.9.74_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.2.7/SpotC++.v2.2.7_v8.9.74_ALTSTORESOURCE_ONLY.ipa",
           "size": 76471026,
           "minOSVersion": "15.0"
         },
@@ -386,7 +386,7 @@
           "version": "2.2.6",
           "date": "2024-9-05",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.0, fixed several bugs. Localizations. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.2.6",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.2.6/SpotC++.v2.2.6_v8.9.70_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.2.6/SpotC++.v2.2.6_v8.9.70_ALTSTORESOURCE_ONLY.ipa",
           "size": 75754346,
           "minOSVersion": "15.0"
         },
@@ -394,7 +394,7 @@
           "version": "2.2.5",
           "date": "2024-8-26",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.9, fixed several bugs. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.2.5",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.2.5/SpotC++.v2.2.5_v8.9.68_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.2.5/SpotC++.v2.2.5_v8.9.68_ALTSTORESOURCE_ONLY.ipa",
           "size": 75333172,
           "minOSVersion": "15.0"
         },
@@ -402,7 +402,7 @@
           "version": "2.2.4",
           "date": "2024-8-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.8, Fixed original lyrics colors, Localization, fixed several bugs. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.2.4",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.2.4/SpotC++.v2.2.4_v8.9.66_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.2.4/SpotC++.v2.2.4_v8.9.66_ALTSTORESOURCE_ONLY.ipa",
           "size": 74829486,
           "minOSVersion": "15.0"
         },
@@ -410,7 +410,7 @@
           "version": "2.2.3",
           "date": "2024-8-10",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.7, fixed several bugs. Fixed lyrics not appearing issue\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.2.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.2.3/SpotC++.v2.2.3_v8.9.64_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.2.3/SpotC++.v2.2.3_v8.9.64_ALTSTORESOURCE_ONLY.ipa",
           "size": 74335450,
           "minOSVersion": "15.0"
         },
@@ -418,7 +418,7 @@
           "version": "2.2.2",
           "date": "2024-8-06",
           "localizedDescription": "Updated Spotify to 8.9.62\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.2.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.2.2/SpotC++.v2.2.2_v8.9.62_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.2.2/SpotC++.v2.2.2_v8.9.62_ALTSTORESOURCE_ONLY.ipa",
           "size": 74332625,
           "minOSVersion": "15.0"
         },
@@ -426,7 +426,7 @@
           "version": "2.2.1",
           "date": "2024-7-29",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.6, fixed several bugs. Fixed popups white background bug on iPad\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.2.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.2.1/SpotC++.v2.2.1_v8.9.60_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.2.1/SpotC++.v2.2.1_v8.9.60_ALTSTORESOURCE_ONLY.ipa",
           "size": 73860519,
           "minOSVersion": "15.0"
         },
@@ -434,7 +434,7 @@
           "version": "2.2.0",
           "date": "2024-7-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.5, fixed several bugs. **Musixmatch lyrics translation is now integrated natively**\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.2.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.2.0/SpotC++.v2.2.0_v8.9.58.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.2.0/SpotC++.v2.2.0_v8.9.58.ipa",
           "size": 73167470,
           "minOSVersion": "15.0"
         },
@@ -442,7 +442,7 @@
           "version": "2.1.5",
           "date": "2024-7-20",
           "localizedDescription": "Updated Spotify to 8.5.52\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.5",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.1.5/SpotC++.v2.1.5_v8.9.58.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.1.5/SpotC++.v2.1.5_v8.9.58.ipa",
           "size": 72804486,
           "minOSVersion": "15.0"
         },
@@ -450,7 +450,7 @@
           "version": "2.1.4",
           "date": "2024-7-11",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.4, fixed several bugs. Fixed crashes on iOS 14 (Spotify 8.9.8) and added support for 8.9.54\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.4",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.1.4/SpotC++.v2.1.4_v8.9.54.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.1.4/SpotC++.v2.1.4_v8.9.54.ipa",
           "size": 72075421,
           "minOSVersion": "15.0"
         },
@@ -458,7 +458,7 @@
           "version": "2.1.3",
           "date": "2024-6-25",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.3, fixed several bugs. Fixed Couldn't load the lyrics for this song message when they are restricted on Musixmatch\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.1.3/SpotC++.v2.1.3_v8.9.50.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.1.3/SpotC++.v2.1.3_v8.9.50.ipa",
           "size": 72057232,
           "minOSVersion": "15.0"
         },
@@ -466,7 +466,7 @@
           "version": "2.1.2",
           "date": "2024-6-17",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.2, fixed several bugs. Added Lyrics Colors option\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.1.2/SpotC++.v2.1.2_v8.9.48.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.1.2/SpotC++.v2.1.2_v8.9.48.ipa",
           "size": 75036310,
           "minOSVersion": "15.0"
         },
@@ -474,7 +474,7 @@
           "version": "2.1.1",
           "date": "2024-6-7",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.1, fixed several bugs. Overwrite Configuration option. Dynamic Premium patching method by default.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.1.1/SpotC++.v2.1.1_v8.9.44.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.1.1/SpotC++.v2.1.1_v8.9.44.ipa",
           "size": 75312670,
           "minOSVersion": "15.0"
         },
@@ -482,7 +482,7 @@
           "version": "2.1.0",
           "date": "2024-5-28",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable it in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.1.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.1.0/SpotC++.v2.1.0_v8.9.42.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.1.0/SpotC++.v2.1.0_v8.9.42.ipa",
           "size": 75264232,
           "minOSVersion": "15.0"
         },
@@ -490,7 +490,7 @@
           "version": "2.0.2",
           "date": "2024-5-22",
           "localizedDescription": "Added Whoeevee's OpenSpotifySafariExtension.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.0.2/SpotC++.v2.0.2_v8.9.40.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.0.2/SpotC++.v2.0.2_v8.9.40.ipa",
           "size": 77337713,
           "minOSVersion": "15.0"
         },
@@ -498,7 +498,7 @@
           "version": "2.0.1",
           "date": "2024-5-22",
           "localizedDescription": "Updated EeveeSpotify to Swift 3.1, fixed several bugs. Genius Lyric fallback.\n Updated Spotify to version 8.9.40\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.0.1/SpotC++.v2.0.1_v8.9.40.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.0.1/SpotC++.v2.0.1_v8.9.40.ipa",
           "size": 77106234,
           "minOSVersion": "15.0"
         },
@@ -506,7 +506,7 @@
           "version": "2.0.0",
           "date": "2024-5-12",
           "localizedDescription": "-Replaced Spotilife with EeveeSpotify.\n Updated Spotify to version 8.9.38\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.0.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.0.0/SpotC++.v2.0.0_v8.9.38.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.0.0/SpotC++.v2.0.0_v8.9.38.ipa",
           "size": 77273560,
           "minOSVersion": "15.0"
         },
@@ -514,7 +514,7 @@
           "version": "1.1.3",
           "date": "2022-1-9",
           "localizedDescription": "- Added Sposify Fix 0.0.6, which should fix it from crashing when opening settings.\n - Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.1.3/SpotC++.v1.1.3_v8.6.42.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v1.1.3/SpotC++.v1.1.3_v8.6.42.ipa",
           "size": 48093000,
           "minOSVersion": "13.0"
         },
@@ -522,7 +522,7 @@
           "version": "1.1.2",
           "date": "2022-1-9",
           "localizedDescription": "- Added Sposify Fix 0.0.6, which should fix it from crashing when opening settings.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.1.2/SpotC++.v1.1.2_v8.6.42.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v1.1.2/SpotC++.v1.1.2_v8.6.42.ipa",
           "size": 48093000,
           "minOSVersion": "13.0"
         },
@@ -530,12 +530,12 @@
           "version": "1.1.1",
           "date": "2022-1-1",
           "localizedDescription": "First AltStore release!\n Crashes when opening Settings, not recommended to use.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v1.1.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v1.1.1/SpotC++.v1.1.1_v8.6.42.ipa",
+          "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v1.1.1/SpotC++.v1.1.1_v8.6.42.ipa",
           "size": 48068000,
           "minOSVersion": "13.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/download/v2.5.5/SpotC++.v2.5.5_v9.0.68_ALTSTORESOURCE_ONLY.ipa",
+      "downloadURL": "https://archive.org/download/spotcplusplusreleases/SpotC-Plus-Plus/v2.5.5/SpotC++.v2.5.5_v9.0.68_ALTSTORESOURCE_ONLY.ipa",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n Sposify is a Spotify IOS app tweak that adds various enhancements to the Spotify IOS application.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC%2B%2B%20AppIcon.png",
       "tintColor": "1ed760",
@@ -680,7 +680,7 @@
           "version": "3.4.5",
           "date": "2025-8-14",
           "localizedDescription": "Updated EeveeSpotify to Swift 6.1. EeveeSpotify premium plan Info (thanks @GBanan)\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.5",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.4.5/SpotveeC.v3.4.5_v9.0.68_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.4.5/SpotveeC.v3.4.5_v9.0.68_ALTSTORESOURCE_ONLY.ipa",
           "size": 83317953,
           "minOSVersion": "16.1"
         },
@@ -688,7 +688,7 @@
           "version": "3.4.4",
           "date": "2025-8-01",
           "localizedDescription": "Updated Spotify to 9.0.66.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.4",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.4.4/SpotveeC.v3.4.4_v9.0.66_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.4.4/SpotveeC.v3.4.4_v9.0.66_ALTSTORESOURCE_ONLY.ipa",
           "size": 82592347,
           "minOSVersion": "16.1"
         },
@@ -696,7 +696,7 @@
           "version": "3.4.3",
           "date": "2025-7-22",
           "localizedDescription": "Updated Spotify to 9.0.62.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.4.3/SpotveeC.v3.4.3_v9.0.62_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.4.3/SpotveeC.v3.4.3_v9.0.62_ALTSTORESOURCE_ONLY.ipa",
           "size": 81570258,
           "minOSVersion": "16.1"
         },
@@ -704,7 +704,7 @@
           "version": "3.4.2",
           "date": "2025-7-06",
           "localizedDescription": "Updated EeveeSpotify to Swift 6.0.2. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.4.2/SpotveeC.v3.4.2_v9.0.58_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.4.2/SpotveeC.v3.4.2_v9.0.58_ALTSTORESOURCE_ONLY.ipa",
           "size": 80770222,
           "minOSVersion": "16.1"
         },
@@ -712,7 +712,7 @@
           "version": "3.4.1",
           "date": "2025-6-27",
           "localizedDescription": "Updated EeveeSpotify to Swift 6.0.1. Updated Traditional Chinese localizaton by @ElliotCHEN37\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.4.1/SpotveeC.v3.4.1_v9.0.56_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.4.1/SpotveeC.v3.4.1_v9.0.56_ALTSTORESOURCE_ONLY.ipa",
           "size": 80691803,
           "minOSVersion": "16.1"
         },
@@ -720,7 +720,7 @@
           "version": "3.4.0",
           "date": "2025-6-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 6.0. Share to LiveContainer and Show Instagram Destination features ([commissioned by @Laiteux](https://github.com/whoeevee/EeveeSpotify/issues/722#issuecomment-2975733084))\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.4.0/SpotveeC.v3.4.0_v9.0.52_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.4.0/SpotveeC.v3.4.0_v9.0.52_ALTSTORESOURCE_ONLY.ipa",
           "size": 80208732,
           "minOSVersion": "16.1"
         },
@@ -728,7 +728,7 @@
           "version": "3.3.18",
           "date": "2025-6-07",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.9. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.18",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.18/SpotveeC.v3.3.18_v9.0.50_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.18/SpotveeC.v3.3.18_v9.0.50_ALTSTORESOURCE_ONLY.ipa",
           "size": 79912884,
           "minOSVersion": "16.1"
         },
@@ -736,7 +736,7 @@
           "version": "3.3.17",
           "date": "2025-5-30",
           "localizedDescription": "Updated Spotify to 9.0.48.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.17",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.17/SpotveeC.v3.3.17_v9.0.48_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.17/SpotveeC.v3.3.17_v9.0.48_ALTSTORESOURCE_ONLY.ipa",
           "size": 80010836,
           "minOSVersion": "15.0"
         },
@@ -744,7 +744,7 @@
           "version": "3.3.16",
           "date": "2025-5-27",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.8. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.16",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.16/SpotveeC.v3.3.16_v9.0.46_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.16/SpotveeC.v3.3.16_v9.0.46_ALTSTORESOURCE_ONLY.ipa",
           "size": 79956536,
           "minOSVersion": "15.0"
         },
@@ -752,7 +752,7 @@
           "version": "3.3.15",
           "date": "2025-5-22",
           "localizedDescription": "Updated Spotify to 9.0.44.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.15",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.15/SpotveeC.v3.3.15_v9.0.44_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.15/SpotveeC.v3.3.15_v9.0.44_ALTSTORESOURCE_ONLY.ipa",
           "size": 79716470,
           "minOSVersion": "15.0"
         },
@@ -760,7 +760,7 @@
           "version": "3.3.14",
           "date": "2025-5-15",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.7. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.14",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.14/SpotveeC.v3.3.14_v9.0.42_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.14/SpotveeC.v3.3.14_v9.0.42_ALTSTORESOURCE_ONLY.ipa",
           "size": 81081563,
           "minOSVersion": "15.0"
         },
@@ -768,7 +768,7 @@
           "version": "3.3.13",
           "date": "2025-5-03",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.6. Fixed player crashes on Spotify 9.0.40\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.13",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.13/SpotveeC.v3.3.13_v9.0.40_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.13/SpotveeC.v3.3.13_v9.0.40_ALTSTORESOURCE_ONLY.ipa",
           "size": 80805185,
           "minOSVersion": "15.0"
         },
@@ -776,7 +776,7 @@
           "version": "3.3.12",
           "date": "2025-4-26",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.5. Fixed player crashes on Spotify 9.0.36\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.12",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.12/SpotveeC.v3.3.12_v9.0.36_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.12/SpotveeC.v3.3.12_v9.0.36_ALTSTORESOURCE_ONLY.ipa",
           "size": 80214002,
           "minOSVersion": "15.0"
         },
@@ -784,7 +784,7 @@
           "version": "3.3.11",
           "date": "2025-4-15",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.3. **Fixed lyrics screen crashes on recent Spotify versions**\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.11",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.11/SpotveeC.v3.3.11_v9.0.32_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.11/SpotveeC.v3.3.11_v9.0.32_ALTSTORESOURCE_ONLY.ipa",
           "size": 79273591,
           "minOSVersion": "15.0"
         },
@@ -792,7 +792,7 @@
           "version": "3.3.10",
           "date": "2025-4-03",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.2. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.10",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.10/SpotveeC.v3.3.10_v9.0.32_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.10/SpotveeC.v3.3.10_v9.0.32_ALTSTORESOURCE_ONLY.ipa",
           "size": 79273854,
           "minOSVersion": "15.0"
         },
@@ -800,7 +800,7 @@
           "version": "3.3.9",
           "date": "2025-3-27",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9.1. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.9",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.9/SpotveeC.v3.3.9_v9.0.30_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.9/SpotveeC.v3.3.9_v9.0.30_ALTSTORESOURCE_ONLY.ipa",
           "size": 79342101,
           "minOSVersion": "15.0"
         },
@@ -808,7 +808,7 @@
           "version": "3.3.8",
           "date": "2025-3-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.9. LRCLIB server address option, heavy settings code refactoring and improvements\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.8",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.8/SpotveeC.v3.3.8_v9.0.28_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.8/SpotveeC.v3.3.8_v9.0.28_ALTSTORESOURCE_ONLY.ipa",
           "size": 80265654,
           "minOSVersion": "15.0"
         },
@@ -816,7 +816,7 @@
           "version": "3.3.7",
           "date": "2025-3-12",
           "localizedDescription": "Updated Spotify to 9.0.26.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.7",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.7/SpotveeC.v3.3.7_v9.0.26_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.7/SpotveeC.v3.3.7_v9.0.26_ALTSTORESOURCE_ONLY.ipa",
           "size": 79960831,
           "minOSVersion": "15.0"
         },
@@ -824,7 +824,7 @@
           "version": "3.3.6",
           "date": "2025-3-10",
           "localizedDescription": "Updated Spotify to 9.0.24.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.3.6",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.6/SpotveeC.v3.3.6_v9.0.24_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.6/SpotveeC.v3.3.6_v9.0.24_ALTSTORESOURCE_ONLY.ipa",
           "size": 79817414,
           "minOSVersion": "15.0"
         },
@@ -832,7 +832,7 @@
           "version": "3.3.5",
           "date": "2025-3-04",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.8, fixed several bugs. Added support for 9.0.22 (fixed crashing on startup)\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.3.5",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.5/SpotveeC.v3.3.5_v9.0.22_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.5/SpotveeC.v3.3.5_v9.0.22_ALTSTORESOURCE_ONLY.ipa",
           "size": 79275567,
           "minOSVersion": "15.0"
         },
@@ -840,7 +840,7 @@
           "version": "3.3.4",
           "date": "2025-2-25",
           "localizedDescription": "Updated Spotify to 9.0.20.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.3.4",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.4/SpotveeC.v3.3.4_v9.0.20_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.4/SpotveeC.v3.3.4_v9.0.20_ALTSTORESOURCE_ONLY.ipa",
           "size": 79045739,
           "minOSVersion": "15.0"
         },
@@ -848,7 +848,7 @@
           "version": "3.3.3",
           "date": "2025-2-13",
           "localizedDescription": "Updated Spotify to 9.0.18.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.3.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.3/SpotveeC.v3.3.3_v9.0.18_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.3/SpotveeC.v3.3.3_v9.0.18_ALTSTORESOURCE_ONLY.ipa",
           "size": 79290456,
           "minOSVersion": "15.0"
         },
@@ -856,7 +856,7 @@
           "version": "3.3.2",
           "date": "2025-2-05",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.7, fixed several bugs. Fixed local playlist downloading crashes (used to “download” playlists containing only local tracks from your PC within a Wi-Fi network)\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.3.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.2/SpotveeC.v3.3.2_v9.0.16_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.2/SpotveeC.v3.3.2_v9.0.16_ALTSTORESOURCE_ONLY.ipa",
           "size": 78299070,
           "minOSVersion": "15.0"
         },
@@ -864,7 +864,7 @@
           "version": "3.3.1",
           "date": "2025-1-29",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.6, fixed several bugs. Added support for 9.0.14 (fixed crashing on loading lyrics when replacing is enabled)\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.3.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.1/SpotveeC.v3.3.1_v9.0.14_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.1/SpotveeC.v3.3.1_v9.0.14_ALTSTORESOURCE_ONLY.ipa",
           "size": 77838009,
           "minOSVersion": "15.0"
         },
@@ -872,7 +872,7 @@
           "version": "3.3.0",
           "date": "2025-1-15",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.5, fixed several bugs. Updated dumped configuration; may fix app crashes in certain scenarios\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.3.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.3.0/SpotveeC.v3.3.0_v9.0.10_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.3.0/SpotveeC.v3.3.0_v9.0.10_ALTSTORESOURCE_ONLY.ipa",
           "size": 79228609,
           "minOSVersion": "15.0"
         },
@@ -880,7 +880,7 @@
           "version": "3.2.10",
           "date": "2025-1-15",
           "localizedDescription": "Updated Spotify to version 9.0.10 \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.2.10",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.2.10/SpotveeC.v3.2.10_v9.0.10_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.2.10/SpotveeC.v3.2.10_v9.0.10_ALTSTORESOURCE_ONLY.ipa",
           "size": 79227107,
           "minOSVersion": "15.0"
         },
@@ -888,7 +888,7 @@
           "version": "3.2.9",
           "date": "2025-1-13",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.4, fixed several bugs. Improved LRCLIB lyrics fetching by @Mapleshade20\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.2.9",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.2.9/SpotveeC.v3.2.9_v9.0.8_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.2.9/SpotveeC.v3.2.9_v9.0.8_ALTSTORESOURCE_ONLY.ipa",
           "size": 78959508,
           "minOSVersion": "15.0"
         },
@@ -896,7 +896,7 @@
           "version": "3.2.8",
           "date": "2024-12-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.3, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.2.8",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.2.8/SpotveeC.v3.2.8_v9.0.2_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.2.8/SpotveeC.v3.2.8_v9.0.2_ALTSTORESOURCE_ONLY.ipa",
           "size": 78616954,
           "minOSVersion": "15.0"
         },
@@ -904,7 +904,7 @@
           "version": "3.2.7",
           "date": "2024-12-13",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.3, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.2.7",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.2.7/SpotveeC.v3.2.7_v9.0.0_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.2.7/SpotveeC.v3.2.7_v9.0.0_ALTSTORESOURCE_ONLY.ipa",
           "size": 78337107,
           "minOSVersion": "15.0"
         },
@@ -912,7 +912,7 @@
           "version": "3.2.6",
           "date": "2024-12-06",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.2, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.2.6",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.2.6/SpotveeC.v3.2.6_v8.9.96_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.2.6/SpotveeC.v3.2.6_v8.9.96_ALTSTORESOURCE_ONLY.ipa",
           "size": 78324172,
           "minOSVersion": "15.0"
         },
@@ -920,7 +920,7 @@
           "version": "3.2.5",
           "date": "2024-11-18",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8.1, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.2.5",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.2.5/SpotveeC.v3.2.5_v8.9.92_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.2.5/SpotveeC.v3.2.5_v8.9.92_ALTSTORESOURCE_ONLY.ipa",
           "size": 78856143,
           "minOSVersion": "15.0"
         },
@@ -928,7 +928,7 @@
           "version": "3.2.4",
           "date": "2024-11-08",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.8, fixed several bugs.  Request Anonymous Token option for Musixmatch\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.2.4",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.2.4/SpotveeC.v3.2.4_v8.9.90_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.2.4/SpotveeC.v3.2.4_v8.9.90_ALTSTORESOURCE_ONLY.ipa",
           "size": 79236760,
           "minOSVersion": "15.0"
         },
@@ -936,7 +936,7 @@
           "version": "3.2.3",
           "date": "2024-10-25",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.7, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.2.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.2.3/SpotveeC.v3.2.3_v8.9.86_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.2.3/SpotveeC.v3.2.3_v8.9.86_ALTSTORESOURCE_ONLY.ipa",
           "size": 78725629,
           "minOSVersion": "15.0"
         },
@@ -944,7 +944,7 @@
           "version": "3.2.2",
           "date": "2024-10-22",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.6, fixed several bugs. Do Not Replace Lyrics option\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.2.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.2.2/SpotveeC.v3.2.2_v8.9.84_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.2.2/SpotveeC.v3.2.2_v8.9.84_ALTSTORESOURCE_ONLY.ipa",
           "size": 78215960,
           "minOSVersion": "15.0"
         },
@@ -952,7 +952,7 @@
           "version": "3.2.1",
           "date": "2024-10-09",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.5, fixed several bugs. Contributors Sheet\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.2.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.2.1/SpotveeC.v3.2.1_v8.9.82_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.2.1/SpotveeC.v3.2.1_v8.9.82_ALTSTORESOURCE_ONLY.ipa",
           "size": 77836610,
           "minOSVersion": "15.0"
         },
@@ -960,7 +960,7 @@
           "version": "3.2.0",
           "date": "2024-10-07",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.4, fixed several bugs. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.2.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.2.0/SpotveeC.v3.2.0_v8.9.80_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.2.0/SpotveeC.v3.2.0_v8.9.80_ALTSTORESOURCE_ONLY.ipa",
           "size": 77124084,
           "minOSVersion": "15.0"
         },
@@ -968,7 +968,7 @@
           "version": "3.1.9",
           "date": "2024-10-02",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.3, fixed several bugs. **Liked Songs on artist page**\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.9",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.9/SpotveeC.v3.1.9_v8.9.78_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.1.9/SpotveeC.v3.1.9_v8.9.78_ALTSTORESOURCE_ONLY.ipa",
           "size": 76833924,
           "minOSVersion": "15.0"
         },
@@ -976,7 +976,7 @@
           "version": "3.1.8",
           "date": "2024-9-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.2, fixed several bugs. Localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.8",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.8/SpotveeC.v3.1.8_v8.9.76_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.1.8/SpotveeC.v3.1.8_v8.9.76_ALTSTORESOURCE_ONLY.ipa",
           "size": 76382049,
           "minOSVersion": "15.0"
         },
@@ -984,7 +984,7 @@
           "version": "3.1.7",
           "date": "2024-9-11",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.1, fixed several bugs. Localizations. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.7",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.7/SpotveeC.v3.1.7_v8.9.74_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.1.7/SpotveeC.v3.1.7_v8.9.74_ALTSTORESOURCE_ONLY.ipa",
           "size": 76094120,
           "minOSVersion": "15.0"
         },
@@ -992,7 +992,7 @@
           "version": "3.1.6",
           "date": "2024-9-05",
           "localizedDescription": "Updated EeveeSpotify to Swift 5.0, fixed several bugs. Localizations. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.6",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.6/SpotveeC.v3.1.6_v8.9.70_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.1.6/SpotveeC.v3.1.6_v8.9.70_ALTSTORESOURCE_ONLY.ipa",
           "size": 75377411,
           "minOSVersion": "15.0"
         },
@@ -1000,7 +1000,7 @@
           "version": "3.1.5",
           "date": "2024-8-26",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.9, fixed several bugs. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.5",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.5/SpotveeC.v3.1.5_v8.9.68_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.1.5/SpotveeC.v3.1.5_v8.9.68_ALTSTORESOURCE_ONLY.ipa",
           "size": 74956308,
           "minOSVersion": "15.0"
         },
@@ -1008,7 +1008,7 @@
           "version": "3.1.4",
           "date": "2024-8-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.8, Fixed original lyrics colors, Localization, fixed several bugs. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.4",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.4/SpotveeC.v3.1.4_v8.9.66_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.1.4/SpotveeC.v3.1.4_v8.9.66_ALTSTORESOURCE_ONLY.ipa",
           "size": 74452763,
           "minOSVersion": "15.0"
         },
@@ -1016,7 +1016,7 @@
           "version": "3.1.3",
           "date": "2024-8-10",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.7, fixed several bugs. Fixed lyrics not appearing issue\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.3/SpotveeC.v3.1.3_v8.9.64_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.1.3/SpotveeC.v3.1.3_v8.9.64_ALTSTORESOURCE_ONLY.ipa",
           "size": 73958490,
           "minOSVersion": "15.0"
         },
@@ -1024,7 +1024,7 @@
           "version": "3.1.2",
           "date": "2024-8-07",
           "localizedDescription": "Updated Spotify to 8.9.62\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.2/SpotveeC.v3.1.2_v8.9.62_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.1.2/SpotveeC.v3.1.2_v8.9.62_ALTSTORESOURCE_ONLY.ipa",
           "size": 73955657,
           "minOSVersion": "15.0"
         },
@@ -1032,7 +1032,7 @@
           "version": "3.1.1",
           "date": "2024-7-29",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.6, fixed several bugs. Fixed popups white background bug on iPad\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.1/SpotveeC.v3.1.1_v8.9.60_ALTSTORESOURCE_ONLY.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.1.1/SpotveeC.v3.1.1_v8.9.60_ALTSTORESOURCE_ONLY.ipa",
           "size": 73483490,
           "minOSVersion": "15.0"
         },
@@ -1040,7 +1040,7 @@
           "version": "3.1.0",
           "date": "2024-7-20",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.5, fixed several bugs. **Musixmatch lyrics translation is now integrated natively**\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.1.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.1.0/SpotveeC.v3.1.0_v8.9.58.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.1.0/SpotveeC.v3.1.0_v8.9.58.ipa",
           "size": 72790558,
           "minOSVersion": "15.0"
         },
@@ -1048,7 +1048,7 @@
           "version": "3.0.5",
           "date": "2024-7-20",
           "localizedDescription": "Updated Spotify to 8.9.58\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.5",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.5/SpotveeC.v3.0.5_v8.9.58.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.0.5/SpotveeC.v3.0.5_v8.9.58.ipa",
           "size": 72427498,
           "minOSVersion": "15.0"
         },
@@ -1056,7 +1056,7 @@
           "version": "3.0.4",
           "date": "2024-7-12",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.4, fixed several bugs. Fixed crashes on iOS 14 (Spotify 8.9.8) and added support for 8.9.54\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.4",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.4/SpotveeC.v3.0.4_v8.9.54.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.0.4/SpotveeC.v3.0.4_v8.9.54.ipa",
           "size": 71698470,
           "minOSVersion": "15.0"
         },
@@ -1064,7 +1064,7 @@
           "version": "3.0.3",
           "date": "2024-6-25",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.3, fixed several bugs. Fixed Couldn't load the lyrics for this song message when they are restricted on Musixmatch\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.3/SpotveeC.v3.0.3_v8.9.50.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.0.3/SpotveeC.v3.0.3_v8.9.50.ipa",
           "size": 72370900,
           "minOSVersion": "15.0"
         },
@@ -1072,7 +1072,7 @@
           "version": "3.0.2",
           "date": "2024-6-17",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.2, fixed several bugs. Added Lyrics Colors option\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.2/SpotveeC.v3.0.2_v8.9.48.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.0.2/SpotveeC.v3.0.2_v8.9.48.ipa",
           "size": 74650709,
           "minOSVersion": "15.0"
         },
@@ -1080,7 +1080,7 @@
           "version": "3.0.1",
           "date": "2024-6-7",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.1, fixed several bugs. Overwrite Configuration option. Dynamic Premium patching method by default.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.1/SpotveeC.v3.0.1_v8.9.44.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.0.1/SpotveeC.v3.0.1_v8.9.44.ipa",
           "size": 74927146,
           "minOSVersion": "15.0"
         },
@@ -1088,7 +1088,7 @@
           "version": "3.0.0",
           "date": "2024-5-28",
           "localizedDescription": "Updated EeveeSpotify to Swift 4.0, fixed several bugs. Dynamic Premium Patching! (Make sure you enable it in settings) \n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v3.0.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.0.0/SpotveeC.v3.0.0_v8.9.42.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.0.0/SpotveeC.v3.0.0_v8.9.42.ipa",
           "size": 74878600,
           "minOSVersion": "15.0"
         },
@@ -1096,7 +1096,7 @@
           "version": "2.1.1",
           "date": "2024-5-22",
           "localizedDescription": "Updated EeveeSpotify to Swift 3.1, fixed several bugs. Genius Lyric fallback.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v2.1.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.1.1/SpotveeC.v2.1.1_v8.9.40.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v2.1.1/SpotveeC.v2.1.1_v8.9.40.ipa",
           "size": 76964089,
           "minOSVersion": "15.0"
         },
@@ -1104,7 +1104,7 @@
           "version": "2.1.0",
           "date": "2024-5-8",
           "localizedDescription": "Updated EeveeSpotify to Swift 3.0, added more lyric providers.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v2.1.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.1.0/SpotveeC.v2.1.0_v8.9.38.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v2.1.0/SpotveeC.v2.1.0_v8.9.38.ipa",
           "size": 77131497,
           "minOSVersion": "15.0"
         },
@@ -1112,7 +1112,7 @@
           "version": "2.0.1",
           "date": "2024-5-8",
           "localizedDescription": "Updated Spotify Version to v8.9.38\n Updated EeveeSpotify to Swift 2.1, should fix lyrics crash.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v2.0.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.0.1/SpotveeC.v2.0.1_v8.9.38.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v2.0.1/SpotveeC.v2.0.1_v8.9.38.ipa",
           "size": 77057952,
           "minOSVersion": "15.0"
         },
@@ -1120,7 +1120,7 @@
           "version": "2.0.0",
           "date": "2024-5-5",
           "localizedDescription": "Updated Spotify Version to v8.9.36\n Updated EeveeSpotify to Swift 2.0\n Added SwiftProtobuf Framework, a new dependency for EeveeSpotify.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v2.0.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v2.0.0/SpotveeC.v2.0.0_v8.9.36.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v2.0.0/SpotveeC.v2.0.0_v8.9.36.ipa",
           "size": 76795359,
           "minOSVersion": "15.0"
         },
@@ -1128,7 +1128,7 @@
           "version": "1.0.1",
           "date": "2024-4-30",
           "localizedDescription": "Updated Spotify Version to v8.9.34\n Updated EeveeSpotify to Swift 1.4.1\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v1.0.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v1.0.1/SpotveeC.v1.0.1_v8.9.34.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v1.0.1/SpotveeC.v1.0.1_v8.9.34.ipa",
           "size": 73677828,
           "minOSVersion": "15.0"
         },
@@ -1136,12 +1136,12 @@
           "version": "1.0.0",
           "date": "2024-4-27",
           "localizedDescription": "First Release!\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC/releases/tag/v1.0.0",
-          "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v1.0.0/SpotveeC.v1.0.0_v8.9.32.ipa",
+          "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v1.0.0/SpotveeC.v1.0.0_v8.9.32.ipa",
           "size": 72963040,
           "minOSVersion": "15.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotveeC/releases/download/v3.4.5/SpotveeC.v3.4.5_v9.0.68_ALTSTORESOURCE_ONLY.ipa",
+      "downloadURL": "https://archive.org/download/SpotveeCReleases/SpotveeC/v3.4.5/SpotveeC.v3.4.5_v9.0.68_ALTSTORESOURCE_ONLY.ipa",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and enables almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
@@ -1269,7 +1269,7 @@
           "version": "1.2.3",
           "date": "2023-1-1",
           "localizedDescription": "- Fixed Update loop when using SideStore or AltStore.\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.3",
-          "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
+          "downloadURL": "https://archive.org/download/SpotilifeCreleases/SpotilifeC/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
           "size": 47954000,
           "minOSVersion": "13.0"
         },
@@ -1277,7 +1277,7 @@
           "version": "1.2.2",
           "date": "2023-1-1",
           "localizedDescription": "First Version that actually works! 🥳 (Can Verifiy)\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.2",
-          "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.2/SpotilifeC.v1.2.2_v8.6.42.ipa",
+          "downloadURL": "https://archive.org/download/SpotilifeCreleases/SpotilifeC/v1.2.2/SpotilifeC.v1.2.2_v8.6.42.ipa",
           "size": 47954000,
           "minOSVersion": "13.0"
         },
@@ -1285,7 +1285,7 @@
           "version": "1.2.1",
           "date": "2022-12-21",
           "localizedDescription": "First Version that actually works! 🥳\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC/releases/tag/v1.2.1",
-          "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.1.1/SpotilifeC.v1.1.1_v8.7.78.ipa",
+          "downloadURL": "https://archive.org/download/SpotilifeCreleases/SpotilifeC/v1.1.1/SpotilifeC.v1.1.1_v8.7.78.ipa",
           "size": 52661000,
           "minOSVersion": "13.0"
         },
@@ -1293,12 +1293,12 @@
           "version": "1.1.1",
           "date": "2022-10-27",
           "localizedDescription": "First AltStore release!",
-          "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.1.1/SpotilifeC.v1.1.1_v8.7.78.ipa",
+          "downloadURL": "https://archive.org/download/SpotilifeCreleases/SpotilifeC/v1.1.1/SpotilifeC.v1.1.1_v8.7.78.ipa",
           "size": 6687500,
           "minOSVersion": "13.0"
         }
       ],
-      "downloadURL": "https://github.com/SpotCompiled/SpotilifeC/releases/download/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
+      "downloadURL": "https://archive.org/download/SpotilifeCreleases/SpotilifeC/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
       "localizedDescription": "Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotilifeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
