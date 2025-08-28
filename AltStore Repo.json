@@ -18,22 +18,22 @@
       "contact": {
         "web": "https://github.com/SpotCompiled"
       },
-      "version": "2.5.7",
-      "versionDate": "2025-8-21",
-      "size": 84621289,
+      "version": "2.5.8",
+      "versionDate": "2025-8-28",
+      "size": 84956922,
       "minOSVersion": "16.1",
-      "changelog": "Updated EeveeSpotify to Swift 6.1.2. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.7",
-      "versionDescription": "Updated EeveeSpotify to Swift 6.1.2. \\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.7",
+      "changelog": "Updated EeveeSpotify to Swift 6.1.3. Updated Polish localization by @HackZy01\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.8",
+      "versionDescription": "Updated EeveeSpotify to Swift 6.1.3. Updated Polish localization by @HackZy01\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.8",
       "information": [
         {
           "item": "Spotify",
-          "version": "v9.0.72",
+          "version": "v9.0.74",
           "authors": "Spotify AB",
           "url": "https://www.spotify.com"
         },
         {
           "item": "EeveeSpotify",
-          "version": "Swift 6.1.2",
+          "version": "Swift 6.1.3",
           "authors": "Whoeevee & Asdfzxcvbn",
           "url": "https://github.com/whoeevee/EeveeSpotifyReborn"
         },
@@ -70,6 +70,14 @@
       ],
       "subtitle": "Spotify Ad-Free, and Other QOL Enhancements.",
       "versions": [
+        {
+          "version": "2.5.8",
+          "date": "2025-8-28",
+          "localizedDescription": "Updated EeveeSpotify to Swift 6.1.3. Updated Polish localization by @HackZy01\r\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v2.5.8",
+          "downloadURL": "https://files.catbox.moe/o0yxz9.ipa",
+          "size": 84956922,
+          "minOSVersion": "16.1"
+        },
         {
           "version": "2.5.7",
           "date": "2025-8-21",
@@ -551,7 +559,7 @@
           "minOSVersion": "13.0"
         }
       ],
-      "downloadURL": "https://files.catbox.moe/tb3dur.ipa",
+      "downloadURL": "https://files.catbox.moe/o0yxz9.ipa",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n Sposify is a Spotify IOS app tweak that adds various enhancements to the Spotify IOS application.\n\n More Info:\n https://github.com/SpotCompiled/SpotC-Plus-Plus\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC%2B%2B%20AppIcon.png",
       "tintColor": "1ed760",
