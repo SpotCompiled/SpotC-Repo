@@ -617,16 +617,16 @@
       "contact": {
         "web": "https://github.com/SpotCompiled"
       },
-      "version": "3.4.8",
-      "versionDate": "2025-8-28",
-      "size": 84585056,
+      "version": "3.4.9",
+      "versionDate": "2025-9-11",
+      "size": 85205825,
       "minOSVersion": "16.1",
-      "changelog": "Updated EeveeSpotify to Swift 6.1.3. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.8",
-      "versionDescription": "Updated EeveeSpotify to Swift 6.1.3. Improved localizations.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.8",
+      "changelog": "Updated Spotify to 9.0.78.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.9",
+      "versionDescription": "Updated Spotify to 9.0.78.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.9",
       "information": [
         {
           "item": "Spotify",
-          "version": "v9.0.74",
+          "version": "v9.0.78",
           "authors": "Spotify AB",
           "url": "https://www.spotify.com"
         },
@@ -651,6 +651,14 @@
       ],
       "subtitle": "Spotify Free Premium Tweak",
       "versions": [
+        {
+          "version": "3.4.9",
+          "date": "2025-9-11",
+          "localizedDescription": "Updated Spotify to 9.0.78.\\n\\n More Info:\\n https://github.com/SpotCompiled/SpotC-Plus-Plus/releases/tag/v3.4.9",
+          "downloadURL": "https://files.catbox.moe/x2o4gd.ipa",
+          "size": 85205825,
+          "minOSVersion": "16.1"
+        },
         {
           "version": "3.4.8",
           "date": "2025-8-28",
@@ -1140,7 +1148,7 @@
           "minOSVersion": "15.0"
         }
       ],
-      "downloadURL": "https://files.catbox.moe/rmqa0e.ipa",
+      "downloadURL": "https://files.catbox.moe/x2o4gd.ipa",
       "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and enables almost every other premium feature. It even allows you to fetch lyrics from third-party APIs bypassing Spotify's monthly limit! The only main premium feature that does not work is offline downloads, as this is done server-side.\n\n More Info:\n https://github.com/SpotCompiled/SpotveeC\n\n We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other company, agency or government agency. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.",
       "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
       "tintColor": "1ed760",
